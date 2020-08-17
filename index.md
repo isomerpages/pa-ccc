@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/ccc-logo.png
+image: /images/ccc_logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
