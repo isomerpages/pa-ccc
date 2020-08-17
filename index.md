@@ -15,13 +15,13 @@ sections:
         key_highlights:
             - title: Top Agencies
               description: Top 9 agencies
-              url: /TopAgencies/
+              url: /top-agencies/
             - title: Top eServices
               description: Top 9 eServices
-              url: /TopeSerices/
+              url: /top-eservices/
             - title: All Agencies
               description: All Agencies
-              url: /AllAgencies/
+              url: /all-agencies/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
