@@ -11,7 +11,7 @@ title: Top Agencies
   <li class="grid-item">
        <a href="{{ agency.website }}">
         <img src="{{ agency.image-url }}" alt="{{ agency.name }}" />
-        <p>{{ agency.code }}</p>
+        <h2>{{ agency.code }}</h2>
         <p>{{ agency.name }}</p>
        </a>
     </li>
