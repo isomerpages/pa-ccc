@@ -6,7 +6,12 @@ image: /images/ccc_logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:        
+    - hero: 
+        title: Citizenconnect
+        subtitle: Citizenconnect
+        background: /images/hero-banner.png
+        button: Contact Us
+        url: /contact-us/
         key_highlights:
             - title: Top Agencies
               description: Top 9 agencies
