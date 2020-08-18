@@ -1,0 +1,141 @@
+header {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 2rem 0 2rem;
+}
+
+.header-top {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.ccc-logo {
+  flex-grow: 100;
+  order: 1;
+}
+
+.mail {
+  display: flex;
+  order: 2;
+}
+
+.font-size-toggler {
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  order: 3;
+  color: #494a4a;
+}
+
+.toggler-label {
+  width: 100%;
+  margin-bottom: 0.25rem;
+}
+
+.toggler-buttons {
+  display: flex;
+  width: 100%;
+}
+
+.toggler-buttons span {
+  width: 50%;
+  text-align: center;
+  padding: 0.5rem 0;
+  margin-right: 0.25rem;
+  cursor: pointer;
+  border-radius: $global-radius;
+  transition: 300ms ease;
+
+  &:hover {
+    background-color: #0026a7;
+    color: white;
+  }
+
+  &:active {
+    background-color: #1d45cc;
+  }
+}
+
+.font-size-toggler span {
+  text-transform: uppercase;
+}
+
+.search-bar-container {
+  position: relative;
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.search-bar {
+  font-size: 1rem;
+  border-radius: $global-radius;
+  width: 100%;
+  height: 3rem;
+  border: 1px solid #c3c3c3;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 5rem;
+  box-sizing: border-box;
+}
+
+.search-button {
+  font-size: 16px;
+  position: absolute;
+  background: #00adef;
+  color: white;
+  padding: 0.5rem 0.75rem;
+  right: 6px;
+  top: 6px;
+  border-radius: ($global-radius - 2px);
+  border-bottom: ($global-radius / 2) solid #0092ca;
+  cursor: pointer;
+  transition: 300ms ease;
+  &:hover {
+    background: #17bfff;
+    border-bottom: ($global-radius / 2) solid #00a2e0;
+  }
+  &:focus {
+    background: #17bfff;
+  }
+}
+
+.tabbed-nav {
+  background: #f69f59;
+  height: 3rem;
+  margin: 2rem 0;
+  border-radius: $global-radius;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-around;
+  overflow: hidden;
+  border: 1px solid #bd6219;
+}
+
+.tabbed-nav a {
+  min-width: 10rem;
+  min-height: 3rem;
+  height: 100%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  flex-direction: column;
+  background: none;
+  transition: 300ms ease;
+  &:hover {
+    background: #de8741;
+  }
+  &:focus {
+    background: #de8741;
+    text-decoration: underline;
+  }
+}
+
+.tabbed-nav a.active-tab {
+  background-color: #bd6219;
+}

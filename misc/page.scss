@@ -1,0 +1,77 @@
+@import "./_grid.scss";
+@import "./_list.scss";
+
+.pagination {
+  display: flex;
+  background: white;
+  margin: 0 auto;
+  padding: 2rem 0;
+  justify-content: center;
+  -webkit-padding-start: 0;
+  li {
+    display: flex;
+    margin: 0 0.5rem;
+    a {
+      width: 3rem;
+      border: 1px solid #ccc;
+      border-radius: $global-radius;
+      text-decoration: none;
+      text-align: center;
+      color: black;
+      background: #fff;
+      transition: background 300ms ease, color 300ms ease;
+      &.active-page {
+        background: #00adef;
+        color: white;
+        border: 1px solid #00adef;
+      }
+      &:hover {
+        background: #00adef;
+        color: white;
+        border: 1px solid #00adef;
+      }
+    }
+  }
+}
+
+.active-page {
+  background: #00adef;
+  color: white;
+  border: 1px solid #00adef;
+}
+
+.num-of-eservices {
+  order: 3;
+  flex-grow: 3;
+  text-align: right;
+  color: #8d8c8c;
+}
+
+.page-not-found {
+  text-align: center;
+}
+
+.page-number {
+  vertical-align: middle;
+  line-height: 2.5rem;
+}
+
+.current-page-indicator {
+  display: flex;
+  background: white;
+  font-size: 0.75rem;
+  color: #757575;
+  padding: 1rem 2rem 2rem 2rem;
+}
+
+.about-page {
+  padding: 0 25%;
+  line-height: 1.4;
+  ul li {
+    margin-top: 1rem;
+  }
+  p.with-link {
+    margin-top: 2rem;
+    text-align: center;
+  }
+}

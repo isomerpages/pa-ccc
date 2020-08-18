@@ -1,0 +1,65 @@
+html {
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+p,
+span {
+  transition: ease 300ms;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100%;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background: linear-gradient(to bottom, #f5fafb 26%, #abd8e3 100%);
+}
+
+.page {
+  flex: 1;
+  padding: 0 2rem;
+}
+
+footer {
+  text-align: center;
+  min-height: 10rem;
+  background-image: url("http://citizenconnectcentre.sg/assets/img/footer-graphics.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+  .about-link {
+    border-radius: $global-radius;
+    display: inline-block;
+    margin-top: 4rem;
+    padding: 1rem;
+    background: white;
+    color: #de8741;
+    text-decoration: none;
+    border-bottom: 3px solid #dedede;
+    transition: 300ms ease;
+    &:hover {
+      background: #f2f2f2;
+      border-bottom: 3px solid #d4d4d4;
+    }
+  }
+}
