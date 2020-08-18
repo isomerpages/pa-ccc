@@ -1,8 +1,8 @@
 ---
-layout: resources
+layout: medias
 permalink: /top-agencies/
-breadcrumb: top-agencies
-title: top-agencies
+breadcrumb: Top Agencies
+title: Top Agencies
 ---
 
 ### top-agencies
