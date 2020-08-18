@@ -3,6 +3,7 @@ permalink: /top-agencies/
 breadcrumb: Top Agencies
 title: Top Agencies
 ---
+<style>
 .block-grid {
   margin: 0;
   padding: 0;
@@ -68,7 +69,7 @@ title: Top Agencies
   border: none;
   box-shadow: none;
 }
-
+</style>
 
 <ul className="block-grid">
 {% for agency in site.data.top-agencies %}
