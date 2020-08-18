@@ -15,9 +15,7 @@ title: Top Agencies
         <p>{{ agency.name }}</p>
        </a>
     </li>
-    
-    <li class="grid-item filler"></li>
-    
+     
 {% endfor %}
 
 </ul>
