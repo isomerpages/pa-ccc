@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero: 
-        title: Citizenconnect
-        subtitle: Citizenconnect
+        title: CitizenConnect
+        subtitle: 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
