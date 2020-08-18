@@ -8,7 +8,7 @@ title: Top Agencies
 {% for member in site.data.top-agencies %}
   <li className="grid-item">
        <a href={member.website}>
-       <img src={member.image-url} alt={member.name + ' logo'} />
+       <img src={member.image-url} alt={member.name} />
         <h2>{member.code}</h2>
         <p>{member.name}</p>
          </a>
