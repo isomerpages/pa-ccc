@@ -8,7 +8,7 @@ title: Top Agencies
 <ul>
 {% for agency in site.data.top-agencies %}
   <li>  
-    [![agency]({{ agency.img-url }})]({{ agency.website }} "Redirect to homepage")
+    [![agency]({{ agency.img-url }})]({{ agency.website }})
     <h2>{{ agency.code }}</h2> 
     <p>{{ agency.name }}</p>
   </li>
