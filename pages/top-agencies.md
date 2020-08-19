@@ -9,8 +9,8 @@ title: Top Agencies
 {% for agency in site.data.top-agencies %}
   <td>  
     [![agency]({{ agency.image-url }})]({{ agency.website }})              
-    ## {{ agency.code }}
-    ##### {{ agency.name }}
+    <h3> {{ agency.code }} </h3>
+    <p> {{ agency.name }} </p>
   </td>
 {% endfor %}
 </table>
