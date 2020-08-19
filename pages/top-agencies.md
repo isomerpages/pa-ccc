@@ -19,3 +19,7 @@ title: Top Agencies
 {% endfor %}
 
 </ul>
+
+{% for agency in site.data.top-agencies %}
+  [<img src="{{ agency.image-url }}" alt="{{ agency.name }}" />]({{ agency.website }})
+{% endfor %}
