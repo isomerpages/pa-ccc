@@ -3,7 +3,6 @@ permalink: /top-agencies/
 breadcrumb: Top Agencies
 title: Top Agencies
 ---
-<html>
 
 <section class="bp-section" style="background-color:#EAFCFC" id="top-a">
 <table>
@@ -17,4 +16,4 @@ title: Top Agencies
 </table>
 </section>
 
-</html>
+
