@@ -20,10 +20,10 @@ title: Top Agencies
 
 </ul>
 
-<ul>
+
 {% for agency in site.data.top-agencies %}
-  <li>
-  [<img src="{{ agency.image-url }}" />]({{ agency.website }})
-  </li>
+
+- [<img src="{{ agency.image-url }}" />]({{ agency.website }})
+
 {% endfor %}
-</ul>
+
