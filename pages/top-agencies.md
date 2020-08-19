@@ -5,13 +5,13 @@ title: Top Agencies
 ---
 
 <section class="bp-section" style="background-color:#EAFCFC" id="top-a">
-<ul>
+<table>
 {% for agency in site.data.top-agencies %}
-  <li>  
+  <td>  
     [![agency]({{ agency.img-url }})]({{ agency.website }})
     <h2>{{ agency.code }}</h2> 
     <p>{{ agency.name }}</p>
-  </li>
+  </td>
 {% endfor %}
-</ul>
+</table>
 </section>
