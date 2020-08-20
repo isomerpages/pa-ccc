@@ -5,7 +5,7 @@ title: Top Agencies
 ---
 
 
-<table class="block-grid">
+<table>
   
 {% for agency in site.data.top-agencies %}
   
