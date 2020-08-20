@@ -10,7 +10,7 @@ title: Top Agencies
 <table>
 {% for agency in site.data.top-agencies %}
   <td>  
-    ![agency](/images/grid/CPFB.png)
+    <img src="/images/grid/CPFB.png" style="height: 100px; width:100px;"/>
     <h3> {{ agency.code }} </h3>
     <p> {{ agency.name }} </p>
   </td>
