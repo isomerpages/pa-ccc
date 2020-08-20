@@ -72,7 +72,7 @@ title: Top Agencies
 }
 </style>
 
-<ul class="block-grid">>
+<ul class="block-grid">
   
 {% for agency in site.data.top-agencies %}
   
