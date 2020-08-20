@@ -7,8 +7,7 @@ title: Top Agencies
 <section class="bp-section" style="background-color:#EAFCFC" id="top-a">
 <table>
 {% for agency in site.data.top-agencies %}
-  <td>
-  ####  [![agency]({{ agency.image-url }})]({{ agency.website }})   
+  <td>  
     ![agency](/images/grid/CPFB.png)
     <h3> {{ agency.code }} </h3>
     <p> {{ agency.name }} </p>
