@@ -4,17 +4,17 @@ breadcrumb: Top Agencies
 title: Top Agencies
 ---
 
-<table style="width: 630px border-spacing: 2px">
+<ul style="margin: 0 padding: 0 display: flex flex-wrap: wrap flex-direction: row justify-content: space-between">
   
 {% for agency in site.data.top-agencies %}
   
-  <td style="width: 30% padding: 10px border: 1px solid #666">  
+  <li style="width: 30% list-style: none background: white display: flex flex: 0 0 auto text-align: center flex-direction: column border: 1px solid #ddd box-shadow: 0 2px 5px #ccc margin-bottom: 2rem overflow: hidden background: linear-gradient(to bottom, #fff 40%, #ececec 100%)">  
     <a href="{{ agency.website }}">
       <img src="{{ agency.image-url }}" style="height: 100px; width:200px;"/>
       <h3> {{ agency.code }} </h3>
       <p> {{ agency.name }} </p>
     </a>
-  </td>
+  </li>
 
 {% endfor %}
 
