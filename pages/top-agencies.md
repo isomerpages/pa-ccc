@@ -18,7 +18,7 @@ title: Top Agencies
 
 {% endfor %}
 
-</table>
+</ul>
 
 
 
