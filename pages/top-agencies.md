@@ -9,7 +9,7 @@ title: Top Agencies
   
 {% for agency in site.data.top-agencies %}
   
-    <td class="grid-item"> 
+    <td> 
     <a href="{{ agency.website }}" style="color: black text-decoration: none">
       <img src="{{ agency.image-url }}" style="height: 100px; width:150px;"/>
       <h3> {{ agency.code }} </h3>
@@ -17,8 +17,6 @@ title: Top Agencies
     </a>
     </td>
   
-    <td class="grid-item filler"></td>
-
 {% endfor %}
 
 </table>
