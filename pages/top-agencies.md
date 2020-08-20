@@ -12,7 +12,7 @@ title: Top Agencies
   <div class="grid-item"></div>
     <td> 
     <a href="{{ agency.website }}" style="color: black text-decoration: none">
-      <img src="{{ agency.image-url }}" style="height: 100px; width:200px;"/>
+      <img src="{{ agency.image-url }}" style="height: 100px; width:150px;"/>
       <h3> {{ agency.code }} </h3>
       <p> {{ agency.name }} </p>
     </a>
