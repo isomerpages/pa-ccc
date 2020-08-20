@@ -8,7 +8,7 @@ title: Top Agencies
 <table>
 {% for agency in site.data.top-agencies %}
   <td>  
-    <img src="{{ agency.image-url }}" style="height: 100px; width:100px;"/>
+    <img src="{{ agency.image-url }}" style="height: 100px; width:200px;"/>
     <h3> {{ agency.code }} </h3>
     <p> {{ agency.name }} </p>
   </td>
