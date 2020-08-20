@@ -4,8 +4,6 @@ breadcrumb: Top Agencies
 title: Top Agencies
 ---
 
-![agency](/images/grid/CPFB.png)
-
 <section class="bp-section" style="background-color:#EAFCFC" id="top-a">
 <table>
 {% for agency in site.data.top-agencies %}
