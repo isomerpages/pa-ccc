@@ -4,12 +4,12 @@ breadcrumb: Top Agencies
 title: Top Agencies
 ---
 
-<div class="block-grid"></div>
+<div class="block-grid">
 <table>
   
 {% for agency in site.data.top-agencies %}
   
-  <div class="grid-item"></div>
+  <div class="grid-item">
     <td> 
     <a href="{{ agency.website }}" style="color: black text-decoration: none">
       <img src="{{ agency.image-url }}" style="height: 100px; width:150px;"/>
@@ -17,14 +17,16 @@ title: Top Agencies
       <p> {{ agency.name }} </p>
     </a>
     </td>
-    
-  <div class="grid-item filler"></div>
-  <td></td>
-     
+  </div>
+  
+  <div class="grid-item filler">
+    <td></td>
+  </div>
+  
 {% endfor %}
 
 </table>
-
+</div>
 
 
 
