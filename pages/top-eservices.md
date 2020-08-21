@@ -3,14 +3,15 @@ title: Top Eservices
 permalink: /top-eservices/
 ---
 
-<ul>
+<div class="list-container">
+<ul class="vertical-list">
   
   {% for serviceItem in site.data.top-eservices %}
   
-  <li>
+  <li class="list-item">
     <a href={{ serviceItem.url }}>
       <img src={{ serviceItem.image-url }} alt={{ serviceItem.title }} />
-          <div>
+          <div class="list-item-text">
             <h2>{{ serviceItem.agency }}</h2>
             <h3>{{ serviceItem.title }}</h3>
             <p>{{ serviceItem.description }}</p>
@@ -21,3 +22,4 @@ permalink: /top-eservices/
   {% endfor %}
   
 </ul>
+</div>
