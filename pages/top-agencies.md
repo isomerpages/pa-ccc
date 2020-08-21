@@ -5,7 +5,6 @@ title: Top Agencies
 ---
 
 <table>
-  
 {% for agency in site.data.top-agencies %}
   
   <td> 
@@ -17,7 +16,6 @@ title: Top Agencies
   </td>
   
 {% endfor %}
-
 </table>
 
 
