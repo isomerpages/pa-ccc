@@ -1,45 +1,46 @@
--agency: CPFB
- image-url: /images/small/CPFB.png
- title: Application to Use CPF savings to Repay Housing Loan for Private Property
- description: Application to use CPF savings to repay housing loan for property
- url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/housing/private-properties-scheme
--agency: CPFB
- image-url: /images/small/CPFB.png
- title: Application for CPF Withdrawal for Members 55 And Above
- description: Application for CPF withdrawal for members 55 and above
- url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/retirement/cpf-withdrawals-at-55-years-old
--agency: CPFB
- image-url: /images/small/CPFB.png
- title: Application to Make Top-Ups Under the Retirement Sum Topping-Up Scheme
- description: Application to make top-ups under the Retirement Sum Topping-Up Scheme
- url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/retirement/retirement-sum-scheme
--agency: HDB
- image-url: /images/small/HDB.png
- title: Renewal of Season Parking Tickets
- description: Renew your Season Parking
- url: https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp
--agency: HDB
- image-url: /images/small/HDB.png
- title: Collection of Payment
- description: This e-Service allows you to pay for mortgage loan, upgrading cost, rent, goodwill repair assistance bill, fire insurance premium, season parking, parking fines, renovation
- url: https://services2.hdb.gov.sg/webapp/AC28EPAYMENT/AC28EPAYMENTindex.jsp
--agency: ICA
- image-url: /images/small/ICA.png
- title: iEnquiry
- description: Online checking (self-help) of validity of NRIC/immigration passes via iEnquiry
- url: https://careinmind.aic.sg/home/
--agency: SPF
- image-url: /images/small/SPF.png
- title: Payment of fines
- description: Payment of fines
- url: http://www.police.gov.sg/e-services/find-out/outstanding-traffic-offence
- -agency: PA
- image-url: /images/small/PA.png
- title: Application for Passion card
- description: Application for Passion card
- url: https://www.onepa.sg/PA-Membership
- -agency: IRAS
- image-url: /images/small/IRAS.png
- title: myTax Portal
- description: myTax Portal is a secured, personalised portal for taxpayer to view and manage their tax transactions with IRAS conveniently.
- url: https://mytax.iras.gov.sg/ESVWeb/default.aspx
+# Top 9 eService
+- agency: CPFB
+  image-url: /images/small/CPFB.png
+  title: Application to Use CPF savings to Repay Housing Loan for Private Property
+  description: Application to use CPF savings to repay housing loan for property
+  url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/housing/private-properties-scheme
+- agency: CPFB
+  image-url: /images/small/CPFB.png
+  title: Application for CPF Withdrawal for Members 55 And Above
+  description: Application for CPF withdrawal for members 55 and above
+  url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/retirement/cpf-withdrawals-at-55-years-old
+- agency: CPFB
+  image-url: /images/small/CPFB.png
+  title: Application to Make Top-Ups Under the Retirement Sum Topping-Up Scheme
+  description: Application to make top-ups under the Retirement Sum Topping-Up Scheme
+  url: https://www.cpf.gov.sg/Members/Services/forms-and-e-app/schemes/retirement/retirement-sum-scheme
+- agency: HDB
+  image-url: /images/small/HDB.png
+  title: Renewal of Season Parking Tickets
+  description: Renew your Season Parking
+  url: https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp
+- agency: HDB
+  image-url: /images/small/HDB.png
+  title: Collection of Payment
+  description: This e-Service allows you to pay for mortgage loan, upgrading cost, rent, goodwill repair assistance bill, fire insurance premium, season parking, parking fines, renovation
+  url: https://services2.hdb.gov.sg/webapp/AC28EPAYMENT/AC28EPAYMENTindex.jsp
+- agency: ICA
+  image-url: /images/small/ICA.png
+  title: iEnquiry
+  description: Online checking (self-help) of validity of NRIC/immigration passes via iEnquiry
+  url: https://careinmind.aic.sg/home/
+- agency: SPF
+  image-url: /images/small/SPF.png
+  title: Payment of fines
+  description: Payment of fines
+  url: http://www.police.gov.sg/e-services/find-out/outstanding-traffic-offence
+- agency: PA
+  image-url: /images/small/PA.png
+  title: Application for Passion card
+  description: Application for Passion card
+  url: https://www.onepa.sg/PA-Membership
+- agency: IRAS
+  image-url: /images/small/IRAS.png
+  title: myTax Portal
+  description: myTax Portal is a secured, personalised portal for taxpayer to view and manage their tax transactions with IRAS conveniently.
+  url: https://mytax.iras.gov.sg/ESVWeb/default.aspx
