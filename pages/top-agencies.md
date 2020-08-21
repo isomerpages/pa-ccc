@@ -4,8 +4,6 @@ breadcrumb: Top Agencies
 title: Top Agencies
 ---
 
-<table></table>
-
 <table>
   
 {% for agency in site.data.top-agencies %}
