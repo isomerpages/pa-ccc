@@ -16,6 +16,13 @@ $secondary-hover: lighten($secondary, 10%);
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
+// for CCC+
+
+$global-radius: 6px;
+$spinkit-spinner-margin: 20px auto !default;
+$spinkit-size: 40px !default;
+$spinkit-spinner-color: #bd6219 !default;
+
 // Mixins
 
 @mixin touch() {
