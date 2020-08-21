@@ -14,3 +14,18 @@
   organisation: MOM
   image-url: /images/grid/MOM.png
   website: http://www.mom.gov.sg
+- name: Central Provident Fund Board
+  code: CPFB
+  organisation: CPFB
+  image-url: /images/grid/CPFB.png
+  website: https://www.cpf.gov.sg
+- name: Inland Revenue Authority of Singapore
+  code: IRAS
+  organisation: IRAS
+  image-url: /images/grid/IRAS.png
+  website: https://www.iras.gov.sg
+- name: Ministry of Manpower
+  code: MOM
+  organisation: MOM
+  image-url: /images/grid/MOM.png
+  website: http://www.mom.gov.sg
