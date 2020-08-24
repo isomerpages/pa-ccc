@@ -12,7 +12,7 @@ title: All Agencies
     <li class="list-item">
       <a href="/agency/{{ agencyItem.code }}">
         <div class="list-item">
-          <img src="{{ agencyItem.image-url }}" alt="{{ agencyItem.agency }}" />
+          <img src="{{ agencyItem.image-url }}" alt="{{ agencyItem.name }}" />
         </div>
         <div class="list-item-text">
          <h4>{{ agencyItem.code }}</h4>
