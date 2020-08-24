@@ -363,7 +363,7 @@ $spinkit-spinner-color: #bd6219 !default;
   flex-direction: column;
   border: 1px solid #ddd;
   box-shadow: 0 2px 5px #ccc;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   overflow: hidden;
   background: linear-gradient(to bottom, #fff 40%, #ececec 100%);
 }
@@ -390,14 +390,15 @@ $spinkit-spinner-color: #bd6219 !default;
 // grid item
 .grid-item a img {
   margin: 0 auto;
-  min-height: 70px;
-  height: 70px;
-  width: 140px;
+  min-height: 80px;
+  height: 80px;
+  width: 160px;
 }
 
 .grid-item a h5 {
   font-size: 18px;
-  margin: 0.5rem 0 0 0;
+  font-color: red;
+  margin: 0.5rem;
 }
 
 .grid-item a p {
