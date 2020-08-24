@@ -4,8 +4,7 @@ title: All Agencies
 ---
 
 <div class="list-container">
-  <ul class="vertical-list">  
-    
+  <ul class="vertical-list">    
    {%   for agency in site.data.agencies-ad   %}
     <li class="list-item">
       <a href="{{ agency.website }}" >
@@ -17,9 +16,7 @@ title: All Agencies
             <p> {{ agency.name }}</p>          
         </div> 
       </a>
-    </li>
-           
-  {%  endfor  %}
-  
+    </li>           
+  {%  endfor  %}  
   </ul>
 </div>
