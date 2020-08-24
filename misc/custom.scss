@@ -395,7 +395,8 @@ $spinkit-spinner-color: #bd6219 !default;
   width: 200px;
 }
 
-.grid-item a h2 {
+.grid-item a h5 {
+  font-size: 18px;
   margin: 1rem 0 0 0;
 }
 
@@ -467,10 +468,15 @@ $spinkit-spinner-color: #bd6219 !default;
 }
 
 .list-item-text h5,
-.list-item-text h6,	  
-.list-item-text p {
-  font-size: 5px;
+.list-item-text h6 {
+  font-size: 18px;
   margin: 0;
+  display: flex;
+  transition: ease 300ms;
+}
+	  
+.list-item-text p {
+   margin: 0;
   display: flex;
   transition: ease 300ms;
 }
