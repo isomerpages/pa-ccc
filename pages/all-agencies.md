@@ -10,7 +10,7 @@ title: All Agencies
   {% for agencyItem in site.data.agencies-a-d %}
   
     <li class="list-item">
-      <a href="/agency/{{ agencyItem.code }}">
+     
         <div class="list-item">
           <img src="{{ agencyItem.image-url }}" alt="{{ agencyItem.name }}" />
         </div>
@@ -18,7 +18,7 @@ title: All Agencies
          <h4>{{ agencyItem.code }}</h4>
           <p>{{ agencyItem.name }}</p>          
         </div>
-      </a>     
+        
     </li>
            
   {% endfor %}
