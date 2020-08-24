@@ -1,0 +1,17 @@
+# agencies A-D
+- name: Accounting and Corporate Regulatory Authority
+  code: ACRA  
+  image-url: /images/small/ACRA.png
+  website: http://www.acra.gov.sg
+- name: Accountant-General's Department
+  code: AGD 
+  image-url: /images/small/AGD.png
+  website: http://www.agd.gov.sg
+- name: Agency for Integrated Care
+  code: AIC
+  image-url: /images/small/AIC.png
+  website: http://www.aic.sg
+- name: Agency for Science, Technology and Research
+  code: ASTAR
+  image-url: /images/small/ASTAR.png
+  website: https://www.a-star.edu.sg
