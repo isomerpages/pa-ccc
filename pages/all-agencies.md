@@ -12,7 +12,7 @@ title: All Agencies
             <img src="{{ agency.image-url }}" alt="{{ agency.name }}" />
         </div>
         <div class="list-item-text">
-            <h4>{{ agency.code }}</h4>
+            <h5>{{ agency.code }}</h5>
             <p> {{ agency.name }}</p>          
         </div> 
       </a>
