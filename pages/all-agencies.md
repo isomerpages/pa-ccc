@@ -8,7 +8,7 @@ title: All Agencies
 <div class="list-container">
   <ul class="vertical-list">
   
-  {% for agencyItem in site.data.agencies-a-d %}
+  {% for agencyItem in site.data.agencies-ad %}
   
     <li class="list-item">
      
