@@ -342,6 +342,15 @@ $spinkit-spinner-color: #bd6219 !default;
     width: 100%;
   }
 }
+	  
+.block-grid {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
 .block-grid .grid-item {
   width: 30%;
