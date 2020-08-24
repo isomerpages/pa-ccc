@@ -1,0 +1,31 @@
+# Agencies - services
+- agency: ACRA
+  image-url: /images/small/ACRA.png
+  title: ACRA’s One-Stop Business Services Portal (Bizfile+)
+  description: Register your business, update your business details and renew your business registration
+  url: http://www.bizfile.gov.sg/
+- agency: ACRA
+  image-url: /images/small/ACRA.png
+  title: ACRA-On-The-Go (iPhone)
+  description: The first ACRA iPhone mobile app promotes public awareness and use of the mobile application services so as to facilitate businesses and voluntary compliance.
+  url: http://itunes.apple.com/gb/app/acra-on-the-go/id430149539?mt=8&ign-mpt=uo%3D2
+- agency: ACRA
+  image-url: /images/small/ACRA.png
+  title:BizFinx
+  description: Filling of Companies Financial Statements in XBRL Format
+  url: https://www.bizfinx.gov.sg
+- agency: ACRA
+  image-url: /images/small/ACRA.png
+  title: Search UEN
+  description: One Number for all interactions with the Government
+  url: https://www.uen.gov.sg
+- agency: AGD
+  image-url: /images/small/AGD.png
+  title: MBS@Gov
+  description: MBS@Gov is a portal for private clinics to submit the claims for the Government’s share of the medical bills incurred by civil servants, pensioners and their dependants at the clinics.
+  url: http://www.mbs.gov.sg
+- agency: AGD
+  image-url: /images/small/AGD.png
+  title: Vendors@Gov
+  description: Vendors@Gov is a one-stop portal for suppliers can submit invoices directly to each Government agency they are billing and also view their payment details.
+  url: http://www.vendors.gov.sg
