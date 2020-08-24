@@ -7,7 +7,8 @@ title: All Agencies
 
 <div class="list-container">
   <ul class="vertical-list">  
-  {% for agencyItem in site.data.agencies-ad %}
+  
+  {% for agencyItem in site.data.top-agencies %}
   
     <li class="list-item">
         <div class="list-item">
@@ -19,6 +20,7 @@ title: All Agencies
         </div>        
     </li>
            
-  {% endfor %}  
+  {% endfor %}
+  
   </ul>
 </div>
