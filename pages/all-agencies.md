@@ -7,16 +7,15 @@ title: All Agencies
 
 <div class="list-container">
   <ul class="vertical-list">  
-  
-  {% for agencyItem in site.data.top-agencies %}
-  
+    
+   {%   for agency in site.data.top-agencies   %}
     <li class="list-item">
         <div class="list-item">
-            <img src="{{ agencyItem.image-url }}" alt="{{ agencyItem.name }}" />
+            <img src="{{ agency.image-url }}" alt="{{ agency.name }}" />
         </div>
         <div class="list-item-text">
-            <h4>{{ agencyItem.code }}</h4>
-            <p>{{ agencyItem.name }}</p>          
+            <h4>{{ agency.code }}</h4>
+            <p> {{ agency.name }}</p>          
         </div>        
     </li>
            
