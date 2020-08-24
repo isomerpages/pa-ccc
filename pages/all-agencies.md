@@ -1,9 +1,7 @@
 ---
 permalink: /all-agencies/
-breadcrumb: all-agencies
 title: All Agencies
 ---
-
 
 <div class="list-container">
   <ul class="vertical-list">  
