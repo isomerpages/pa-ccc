@@ -14,18 +14,33 @@
   organisation: MOM
   image-url: /images/grid/MOM.png
   website: http://www.mom.gov.sg
-- name: Central Provident Fund Board
-  code: CPFB
-  organisation: CPFB
-  image-url: /images/grid/CPFB.png
-  website: https://www.cpf.gov.sg
-- name: Inland Revenue Authority of Singapore
-  code: IRAS
-  organisation: IRAS
-  image-url: /images/grid/IRAS.png
-  website: https://www.iras.gov.sg
-- name: Ministry of Manpower
-  code: MOM
-  organisation: MOM
-  image-url: /images/grid/MOM.png
-  website: http://www.mom.gov.sg
+- name: Workforce Singapore
+  code: WSG
+  organisation: WSG
+  image-url: /images/grid/WSG.png
+  website: https://http://www.ssg-wsg.gov.sg
+- name: Singapore Police Force
+  code: SPF
+  organisation: SPF
+  image-url: /images/grid/SPF.png
+  website: http://www.police.gov.sg
+- name: Accounting and Corporate Regulatory Authority
+  code: ACRA
+  organisation: ACRA
+  image-url: /images/grid/ACRA.png
+  website: http://www.acra.gov.sg
+- name: Housing & Development Board
+  code: HDB
+  organisation: HDB
+  image-url: /images/grid/HDB.png
+  website: http://www.hdb.gov.sg
+- name: Ministry of Defence
+  code: MINDEF
+  organisation: MINDEF
+  image-url: /images/grid/MINDEF.png
+  website: https://www.mindef.gov.sg
+- name: People's Association
+  code: PA
+  organisation: PA
+  image-url: /images/grid/PA.png
+  website: https://www.onepa.sg
