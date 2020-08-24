@@ -8,7 +8,7 @@ title: Top Agencies
   {%   for agency in site.data.top-agencies   %}
     <li class="grid-item" >
         <a href="{{ agency.website }}"><img src= "{{ agency.image-url }}" alt="{{ agency.name }}" />
-          <h2>{{ agency.code }}</h2>
+          <h5>{{ agency.code }}</h5>
           <p>{{ agency.name }}</p>
         </a>
     </li>       
