@@ -430,8 +430,8 @@ $desktop: 1200px + (2 * $gap) !default;
 }
 
 .list-item a {
-  margin: 2px 0;
-  padding: 1rem;
+  margin: 1px 0;
+  padding: 0.5rem;
   text-decoration: none;
   display: flex;
   width: 100%;
@@ -451,7 +451,7 @@ $desktop: 1200px + (2 * $gap) !default;
   min-width: 70px;
   width: 70px;
   height: 70px;
-  margin-right: 1rem;
+  margin-right: 0.1rem;
 }
 
 .list-item-text {
@@ -459,7 +459,7 @@ $desktop: 1200px + (2 * $gap) !default;
   flex-direction: column;
   justify-content: flex-start;
   order: 2;
-  max-width: 40rem;
+  max-width: 50rem;
 }
 
 .list-item-text h5 {
