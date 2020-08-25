@@ -468,8 +468,17 @@ $desktop: 1200px + (2 * $gap) !default;
   display: flex;
   transition: ease 300ms;
 }
+	 
+.list-item-text h6 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0;
+  display: flex;
+  transition: ease 300ms;
+}
 	  
 .list-item-text p {
+  font-size: 0.8rem;
   margin: 0;
   display: flex;
   transition: ease 300ms;
