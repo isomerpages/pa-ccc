@@ -449,9 +449,9 @@ $desktop: 960px + (2 * $gap) !default;
 .list-item a img {
   order: 1;
   min-width: 80px;
-  width: 80px;
+  width: 100px;
   height: 80px;
-  margin-right: 1rem;
+  margin-right: 0.5rem;
 }
 
 .list-item-text {
