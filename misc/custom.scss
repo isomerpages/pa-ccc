@@ -14,7 +14,7 @@ $secondary-hover: lighten($secondary, 10%);
 {%- endfor -%}
 
 $gap: 32px !default;
-$desktop: 1080px + (2 * $gap) !default;
+$desktop: 1200px + (2 * $gap) !default;
 
 // Mixins
 
@@ -362,7 +362,7 @@ $desktop: 1080px + (2 * $gap) !default;
 }
 
 .grid-item a {
-  padding: 0.5rem;
+  padding: 0.1rem;
   color: black;
   text-decoration: none;
   border-radius: 6px;
@@ -391,12 +391,12 @@ $desktop: 1080px + (2 * $gap) !default;
 .grid-item a h5 {
   font-size: 1rem;
   font-weight: bold;
-  margin: 0.25rem;
+  margin: 0.5rem;
 }
 
 .grid-item a p {
-  font-size: 0.75rem;
-  margin: 0;
+  font-size: 0.8rem;
+  margin: 0.5rem;
 }
 
 .grid-item.filler {
