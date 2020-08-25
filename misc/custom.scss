@@ -430,8 +430,8 @@ $desktop: 1200px + (2 * $gap) !default;
 }
 
 .list-item a {
-  margin: 1px 0;
-  padding: 0.1rem;
+  margin: 0;
+  padding: 0;
   text-decoration: none;
   display: flex;
   width: 100%;
@@ -448,10 +448,10 @@ $desktop: 1200px + (2 * $gap) !default;
 
 .list-item a img {
   order: 1;
-  min-width: 70px;
-  width: 70px;
-  height: 70px;
-  margin-right: 0.1rem;
+  min-width: 80px;
+  width: 80px;
+  height: 80px;
+  margin-right: 0;
 }
 
 .list-item-text {
