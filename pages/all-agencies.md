@@ -1,6 +1,10 @@
 ---
+layout: resources
 permalink: /all-agencies/
 title: All Agencies
+pagination: 
+  enabled: true
+  sort_reverse: true
 ---
 
 <div class="list-container">
