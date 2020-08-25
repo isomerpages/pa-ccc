@@ -15,8 +15,8 @@ title: All Agencies
             <h5>{{ agency.code }}</h5>
             <p> {{ agency.name }}</p>          
         </div> 
-      </a>
-      <span class="num-of-eservices"> {{ agency.svc-num }} "e-Services"</span>
+        <span class="num-of-eservices"> {{ agency.svc-num }} "e-Services"</span>
+      </a>     
     </li>          
   {%  endfor  %}  
   </ul>
