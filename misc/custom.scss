@@ -430,7 +430,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .list-item a {
-  margin: 2px 0;
+  margin: 1px 0;
   padding: 0;
   text-decoration: none;
   display: flex;
@@ -451,8 +451,7 @@ $desktop: 960px + (2 * $gap) !default;
   min-width: 70px;
   width: 70px;
   height: 70px;
-  margin-left: 1rem;
-  margin-right: 2.5rem;
+  margin-right: 1rem;
 }
 
 .list-item-text {
