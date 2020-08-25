@@ -487,3 +487,10 @@ $desktop: 960px + (2 * $gap) !default;
   display: flex;
   transition: ease 300ms;
 }
+	  
+.num-of-eservices {
+  order: 3;
+  flex-grow: 3;
+  text-align: right;
+  color: #8d8c8c;
+}
