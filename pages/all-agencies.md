@@ -19,7 +19,7 @@ pagination:
             <h5>{{ agency.code }}</h5>
             <p> {{ agency.name }}</p>          
         </div> 
-        <span class="num-of-eservices"><p> {{ agency.svc-num }} e-Services </p>
+        <span class="num-of-eservices"><p> {{ agency.svc-num }} {% {{ agency.svc-num }}.value === 1 ? 'e-Service' : 'e-Services' %} </p>
         </span>
       </a>     
     </li>          
