@@ -14,7 +14,7 @@ $secondary-hover: lighten($secondary, 10%);
 {%- endfor -%}
 
 $gap: 32px !default;
-$desktop: 960px + (2 * $gap) !default;
+$desktop: 1080px + (2 * $gap) !default;
 
 // Mixins
 
@@ -346,7 +346,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .block-grid .grid-item {
-  width: 32%;
+  width: 31%;
   list-style: none;
   background: white;
   display: flex;
@@ -356,7 +356,7 @@ $desktop: 960px + (2 * $gap) !default;
   flex-direction: column;
   border: 1px solid #ddd;
   box-shadow: 0 2px 5px #ccc;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   overflow: hidden;
   background: linear-gradient(to bottom, #fff 40%, #ececec 100%);
 }
