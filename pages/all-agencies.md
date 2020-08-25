@@ -1,5 +1,4 @@
 ---
-layout: resources
 permalink: /all-agencies/
 title: All Agencies
 pagination: 
