@@ -9,13 +9,19 @@ title: ACRA
     <span class="back-button">← Back</span>
    </div>
    
-  
-     
-     <div class="agency-body" >
-        <ul>
-           {% for eservice in site.data.service-ad %}           
-                   
-           {% endfor %}
-        </ul>
-      </div>   
+  <div class="agency-body">
+  <ul>
+  {% for eservice in site.data.service-ad %}  
+    <li class="list-item">
+      <a href="{{ eservice.url }}">        
+        <div class="list-item-text">
+          <h6>{{ eservice.title }}</h6>
+          <p>{{ eservice.description }}</p>
+        </div>
+      </a>
+    </li>           
+    {% endfor %} 
+  </ul>
+  </div>
+
  </div>
