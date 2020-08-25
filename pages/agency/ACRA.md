@@ -10,9 +10,7 @@ title: ACRA
    </div>
    
    <div class="agency-header">
-    {% for agency in site.data.agencies-ad %}
-   
-    
+    {% for agency in site.data.agencies-ad %}    
       <img src="{{ agency.code }}" alt="{{ agency.name }}" />
         <div class="agency-details">
           <div class="agency-name">
@@ -23,16 +21,13 @@ title: ACRA
             <a href="{{ agency.website }}">Visit Website</a>
             <span>{{ agency.svc-num }} e-Services </span>
           </div>
-        </div>
-      
+        </div>      
       {% endfor %}
      </div>
      
      <div class="agency-body">
         <ul>
-           {% for eservice in site.data.service-ad %}
-       
-           
+           {% for eservice in site.data.service-ad %}           
             <li class="list-item" >
               <a href="{{ eservice.url }}">
                 <div class="list-item-text">
@@ -40,9 +35,8 @@ title: ACRA
                   <p>{{ eservice.description }}</p>
                 </div>
               </a>
-              </li>  
-          
-          {% endfor %}
+              </li>           
+            {% endfor %}
         </ul>
       </div>   
  </div>
