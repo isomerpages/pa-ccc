@@ -10,7 +10,8 @@ title: ACRA
    </div>
   
   <div class="agency-header">
-    {% for agency in site.data.agencies-ad %}  {% if agency.code === "ACRA" %}  
+    {% for agency in site.data.agencies-ad %}  
+    {% if (agency.code === "ACRA") %}  
       <img src="{{ agency.code }}" alt="{{ agency.name }}" />
         <div class="agency-details">
           <div class="agency-name">
