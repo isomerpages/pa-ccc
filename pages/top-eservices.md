@@ -7,7 +7,10 @@ permalink: /top-eservices/
   <ul class="vertical-list">  
     {% for serviceItem in site.data.top-eservices %}  
     <li class="list-item">
-      <a href="{{ serviceItem.url }}"><img src="{{ serviceItem.image-url }}" alt="{{ serviceItem.agency }}" />
+      <a href="{{ serviceItem.url }}">
+        <div class="list-item">
+          <img src="{{ serviceItem.image-url }}" alt="{{ serviceItem.agency }}" />
+        </div>
         <div class="list-item-text">
           <h5>{{ serviceItem.agency }}</h5>
           <h6>{{ serviceItem.title }}</h6>
