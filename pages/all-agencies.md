@@ -16,7 +16,7 @@ title: All Agencies
             <p> {{ agency.name }}</p>          
         </div> 
       </a>
-      <span class="num-of-eservices"> {{ agency.svc-num }} {% {{ agency.svc-num }} === 1 ? 'e-Service' : 'e-Services' %}</span>
+      <span class="num-of-eservices"> {{ agency.svc-num }} "e-Services"</span>
     </li>          
   {%  endfor  %}  
   </ul>
