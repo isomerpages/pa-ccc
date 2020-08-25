@@ -12,6 +12,7 @@ title: ACRA
    <div class="agency-header">
     {% for agency in site.data.agencies-ad %}
     {% if agency.code === "ACRA" %}
+    {% { %}
       <img src="{{ agency.code }} alt="{{ agency.name }}" />
         <div class="agency-details">
           <div class="agency-name">
@@ -23,13 +24,15 @@ title: ACRA
             <span>{{ agency.svc-num }} e-Services </span>
           </div>
         </div>
-      {% endfor %>
+      {% } %}
+      {% endfor %}
      </div>
      
      <div class="agency-body">
         <ul>
            {% for eservice in site.data.service-ad %}
-           {% if eservice.agency === "ACRA" %}
+           {% if eservice.agency === "ACRA" %} 
+           {% { %}
             <li class="list-item" >
               <a href="{{ eservice.url }}>
                 <div class="list-item-text">
@@ -37,8 +40,9 @@ title: ACRA
                   <p>{{ eservice.description }}</p>
                 </div>
               </a>
-              </li>            
-          <% endfor %>
+              </li>  
+          {% } %}
+          {% endfor %}
         </ul>
       </div>   
  </div>
