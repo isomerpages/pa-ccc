@@ -6,7 +6,7 @@ title: ACRA
 
 <div class="agency">
   <div class="controls">
-    <span onClick={this.handleClick} role="button" tabIndex="0" class="back-button">← Back</span>
+    <span class="back-button">← Back</span>
    </div>
    
    <div class="agency-header">
