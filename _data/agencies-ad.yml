@@ -9,28 +9,3 @@
   image-url: /images/small/AGD.png
   website: http://www.agd.gov.sg
   svc-num: 2
-- name: Agency for Integrated Care
-  code: AIC
-  image-url: /images/small/AIC.png
-  website: http://www.aic.sg
-  svc-num: 27
-- name: Agency for Science, Technology and Research
-  code: ASTAR
-  image-url: /images/small/ASTAR.png
-  website: https://www.a-star.edu.sg
-  svc-num: 0
-- name: Agri-Food & Veterinary Authority of Singapore
-  code: AVA  
-  image-url: /images/small/AVA.png
-  website: http://www.ava.gov.sg
-  svc-num: 27
-- name: Building & Construction Authority
-  code: BCA 
-  image-url: /images/small/BCA.png
-  website: https://www.bca.gov.sg
-  svc-num: 5
-- name: Board of Architects
-  code: BOA
-  image-url: /images/small/BOA.png
-  website: http://www.boa.gov.sg
-  svc-num: 1
