@@ -13,7 +13,7 @@ title: ACRA
     {% for agency in site.data.agencies-ad %}
    
     
-      <img src="{{ agency.code }} alt="{{ agency.name }}" />
+      <img src="{{ agency.code }}" alt="{{ agency.name }}" />
         <div class="agency-details">
           <div class="agency-name">
             <h2>{{ agency.code }}</h2>
@@ -34,7 +34,7 @@ title: ACRA
        
            
             <li class="list-item" >
-              <a href="{{ eservice.url }}>
+              <a href="{{ eservice.url }}">
                 <div class="list-item-text">
                   <h5>{{ eservice.title }}</h5>
                   <p>{{ eservice.description }}</p>
