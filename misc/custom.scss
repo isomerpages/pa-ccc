@@ -395,7 +395,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .grid-item a p {
-  font-size: 0.8rem;
+  font-size: 1rem;
+  line-height: 1.2;
   margin: 0.5rem;
 }
 
@@ -430,7 +431,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .list-item a {
-  margin: 1px 0;
+  margin: 0 auto;;
   padding: 0;
   text-decoration: none;
   display: flex;
