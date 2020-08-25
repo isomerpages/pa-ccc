@@ -34,14 +34,13 @@
   organisation: HDB
   image-url: /images/grid/HDB.png
   website: http://www.hdb.gov.sg
-- name: People's  Association
-  code: PA
-  organisation: PA
-  image-url: /images/grid/PA.png
-  website: https://www.onepa.sg
 - name: Ministry of Defence
   code: MINDEF
   organisation: MINDEF
   image-url: /images/grid/MINDEF.png
   website: https://www.mindef.gov.sg
-
+- name: People's  Association
+  code: PA
+  organisation: PA
+  image-url: /images/grid/PA.png
+  website: https://www.onepa.sg
