@@ -386,6 +386,7 @@ $desktop: 960px + (2 * $gap) !default;
   min-height: 100px;
   height: 100px;
   width: 200px;
+  border: 0;
 }
 
 .grid-item a h5 {
@@ -493,4 +494,12 @@ $desktop: 960px + (2 * $gap) !default;
   flex-grow: 3;
   text-align: right;
   color: #8d8c8c;
+}
+	  
+.num-of-eservices p {
+  font-size: 0.9rem;
+  line-height: 1.2;
+  margin: 0 0 0.25rem 0;
+  display: flex;
+  transition: ease 300ms;
 }
