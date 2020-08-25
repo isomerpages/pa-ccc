@@ -430,8 +430,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .list-item a {
-  margin: 0;
-  padding: 0;
+  margin: 1rem;
+  padding: 1rem;
   text-decoration: none;
   display: flex;
   width: 100%;
@@ -481,9 +481,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 	  
 .list-item-text p {
-  font-size: 0.9rem;
-  line-height: 2rem;
-  margin: 0;
+  font-size: 1rem;
+  line-height: 3rem;
+  margin: 2px;
   display: flex;
   transition: ease 300ms;
 }
