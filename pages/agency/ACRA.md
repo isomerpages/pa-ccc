@@ -13,7 +13,7 @@ title: ACRA
     {% for agency in site.data.agencies-ad %}   
       {% if agency.code == "ACRA" %}
           <div>
-            <img src="{{ agency.image-url }}" alt="{{ agency.name }}" />
+            <img src="/images/square/ACRA.png" alt="{{ agency.name }}" />
           </div>
           <div class="agency-details">
             <div class="agency-name">
