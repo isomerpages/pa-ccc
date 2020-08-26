@@ -523,6 +523,9 @@ $global-radius: 6px !default;
 
 .agency-header img {
   order: 1;
+  min-width: 200px;
+  width: 200px;
+  height: 200px;
   margin-right: 1rem;
   border: 1px solid #ccc;
   border-radius: $global-radius;
@@ -541,6 +544,8 @@ $global-radius: 6px !default;
 }
 
 .agency-name h2,
+.agency-name h3,
+.agency-name h4,
 .agency-name p {
   margin: 0;
 }
