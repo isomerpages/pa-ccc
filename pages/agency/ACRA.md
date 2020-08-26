@@ -11,7 +11,7 @@ title: ACRA
   
   <div class="agency-header">
     {% for agency in site.data.agencies-ad %}   
-      {% if "{{ agency.code }}" == "ACRA" %}
+      {% if agency.code == "ACRA" %}
           <div>
             <img src="{{ agency.code }}" alt="{{ agency.name }}" />
           </div>
@@ -32,7 +32,7 @@ title: ACRA
   <div class="agency-body">
   <ul>
   {% for eservice in site.data.service-ad %}
-    {% if "{{ eservice.agency }}" == "ACRA" %}
+    {% if eservice.agency == "ACRA" %}
     <li class="list-item">
       <a href="{{ eservice.url }}">        
         <div class="list-item-text">
