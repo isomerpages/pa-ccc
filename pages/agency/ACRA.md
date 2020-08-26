@@ -30,7 +30,8 @@ title: ACRA
    
   <div class="agency-body">
   <ul>
-  {% for eservice in site.data.service-ad %}  
+  {% for eservice in site.data.service-ad %}
+    {% if "{{ eservice.agency }}" == "ACRA" %}
     <li class="list-item">
       <a href="{{ eservice.url }}">        
         <div class="list-item-text">
@@ -38,7 +39,8 @@ title: ACRA
           <p>{{ eservice.description }}</p>
         </div>
       </a>
-    </li>           
+    </li>   
+    {% endif %}
     {% endfor %} 
   </ul>
   </div>
