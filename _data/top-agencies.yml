@@ -18,7 +18,7 @@
   code: WSG
   organisation: WSG
   image-url: /images/grid/WSG.png
-  website: https://http://www.ssg-wsg.gov.sg
+  website: http://www.ssg-wsg.gov.sg
 - name: Singapore Police Force
   code: SPF
   organisation: SPF
