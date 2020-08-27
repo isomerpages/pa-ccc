@@ -17,7 +17,7 @@ title: All Agencies
         </div> 
         {% if agency.svc-num == "1" %}
           {% assign svc1 = 'e-Service' %}
-        {% else %}
+        {% elsif %}
           {% assign svc1 = 'e-Services' %}
         {% endif %}
         <span class="num-of-eservices"><p>{{ agency.svc-num }} {{ svc1 }}</p>
