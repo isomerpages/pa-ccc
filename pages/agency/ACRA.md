@@ -22,7 +22,13 @@ title: ACRA
             </div>
             <div class="agency-meta">
               <a href="{{ agency.website }}">Visit Website</a>
-              <span>{{ agency.svc-num }} e-Services </span>
+              {% assign var1 = agency.svc-num | plus:0  %}
+              {% if var1 == 1 %}
+                {% assign svc1 = 'e-Service' %}
+              {% else %}
+               {% assign svc1 = 'e-Services' %}
+              {% endif %}
+              <span>{{ agency.svc-num }} {{ svc1 }} </span>
             </div>
           </div> 
       {% endif %}
@@ -30,7 +36,7 @@ title: ACRA
    </div>
    
   <div class="agency-body">
-  <ul>
+  <ul class="list-container" >
   {% for eservice in site.data.service-ad %}
     {% if eservice.agency == "ACRA" %}
     <li class="list-item">
@@ -45,5 +51,4 @@ title: ACRA
     {% endfor %} 
   </ul>
   </div>
-
  </div>
