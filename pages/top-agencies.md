@@ -11,7 +11,7 @@ title: Top Agencies
           <h5>{{ agency.code }}</h5>
           <p>{{ agency.name }}</p>
         </a>
-        {% if agency.name = "People's Association" %}
+        {% if agency.name == "People's Association" %}
           <br>
         {% endif %}
     </li>       
