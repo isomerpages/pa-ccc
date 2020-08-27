@@ -15,7 +15,7 @@ title: All Agencies
             <h5>{{ agency.code }}</h5>
             <p> {{ agency.name }}</p>          
         </div> 
-        <span class="num-of-eservices"><p>{{ agency.svc-num }} {% if agency.svc-sum == 1 %} <span>e-Service</span> {% else %} <span>e-Services</span> {% endif %}</p>
+        <span class="num-of-eservices"><p>{{ agency.svc-num }} {% if agency.svc-sum == "1" %} <span>e-Service</span> {% else %} <span>e-Services</span> {% endif %}</p>
         </span>
       </a>     
     </li>          
