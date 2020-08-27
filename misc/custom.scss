@@ -585,8 +585,9 @@ $global-radius: 6px !default;
 
 .agency-meta span {
   color: #8d8c8c;
-  display: inline-block;
-  vertical-align: middle;
+  vertical-align: middle; 
+  margin-left: 4px;
+  margin-bottom: 4px;
 }
 
 .agency-body {
