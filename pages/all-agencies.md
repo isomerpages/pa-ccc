@@ -15,12 +15,12 @@ title: All Agencies
             <h5>{{ agency.code }}</h5>
             <p> {{ agency.name }}</p>          
         </div> 
-        {% if agency.svc-num == "1" %}
-          {% assign svc = 'e-Service' %}
+        {% if agency.svc-num == 1 %}
+          {% assign svc1 = 'e-Service' %}
         {% else %}
-          {% assign svc = 'e-Services' %}
+          {% assign svc1 = 'e-Services' %}
         {% endif %}
-        <span class="num-of-eservices"><p>{{ agency.svc-num }} {{ svc }}</p>
+        <span class="num-of-eservices"><p>{{ agency.svc-num }} {{ svc1 }}</p>
         </span>
       </a>     
     </li>          
