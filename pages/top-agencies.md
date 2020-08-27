@@ -13,7 +13,7 @@ title: Top Agencies
         </a>        
     </li> 
     {% if agency.name == "People's Association" %}
-    <li class="grid-item filter"></li>
+    <li class="grid-item filler"></li>
     {% endif %}
   {% endfor %}   
 </ul>
