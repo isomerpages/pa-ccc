@@ -359,13 +359,13 @@ $global-radius: 6px !default;
   flex-direction: column;
   border: 1px solid #ddd;
   box-shadow: 0 2px 5px #ccc;
-  margin-bottom: 0.2rem;
+  margin-bottom: 1rem;
   overflow: hidden;
   background: linear-gradient(to bottom, #fff 40%, #ececec 100%);
 }
 
 .grid-item a {
-  padding: 0.5rem;
+  padding: 0;
   color: black;
   text-decoration: none;
   border-radius: 6px;
