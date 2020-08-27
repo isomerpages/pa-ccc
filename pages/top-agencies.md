@@ -9,11 +9,11 @@ title: Top Agencies
     <li class="grid-item" >
         <a href="{{ agency.website }}"><img src= "{{ agency.image-url }}" alt="{{ agency.name }}" />
           <h5>{{ agency.code }}</h5>
-          <p>{{ agency.name }}</p>
-          {% if agency.name == "People's Association" %}
-            <br>
-          {% endif %}
+          <p>{{ agency.name }}</p>         
         </a>        
-    </li>       
+    </li> 
+    {% if agency.name == "People's Association" %}
+    <li class="grid-item filter"></li>
+    {% endif %}
   {% endfor %}   
 </ul>
