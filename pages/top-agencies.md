@@ -10,10 +10,10 @@ title: Top Agencies
         <a href="{{ agency.website }}"><img src= "{{ agency.image-url }}" alt="{{ agency.name }}" />
           <h5>{{ agency.code }}</h5>
           <p>{{ agency.name }}</p>
-        </a>
-        {% if agency.name == "People's Association" %}
-          <br>
-        {% endif %}
+          {% if agency.name == "People's Association" %}
+            <br>
+          {% endif %}
+        </a>        
     </li>       
   {% endfor %}   
 </ul>
