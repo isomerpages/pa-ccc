@@ -17,7 +17,7 @@ title: ACRA
           </div>
           <div class="agency-details">
             <div class="agency-name">
-              <h2>{{ agency.code }}</h2>
+              <h3>{{ agency.code }}</h3>
               <p>{{ agency.name }}</p>
             </div>
             <div class="agency-meta">
@@ -36,7 +36,7 @@ title: ACRA
    </div>
    
   <div class="agency-body">
-  <ul class="list-container" >
+  <ul>
   {% for eservice in site.data.service-ad %}
     {% if eservice.agency == "ACRA" %}
     <li class="list-item">
