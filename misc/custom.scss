@@ -563,7 +563,6 @@ $global-radius: 6px !default;
   display: flex;
   flex-direction: row;
   align-items: center;
-  vertical-align: middle;
 }
 
 .agency-meta a {
@@ -572,7 +571,6 @@ $global-radius: 6px !default;
   color: white;
   border: none;
   font-weight: bold;
-  vertical-align: middle; 
   margin-right: 1rem;
   font-size: 1rem;
   text-decoration: none;
@@ -587,9 +585,9 @@ $global-radius: 6px !default;
 
 .agency-meta span {
   color: #8d8c8c;
-  vertical-align: middle; 
+  padding: 2rem;
   margin-left: 4px;
-  margin-bottom: 32px;
+  margin-bottom: 0;
 }
 
 .agency-body {
