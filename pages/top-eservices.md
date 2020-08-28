@@ -8,7 +8,7 @@ permalink: /top-eservices/
     {% for serviceItem in site.data.top-eservices %}  
     <li class="list-item">
       <a href="{{ serviceItem.url }}">
-        <div class="list-item">
+        <div>
           <img src="{{ serviceItem.image-url }}" alt="{{ serviceItem.agency }}" />
         </div>
         <div class="list-item-text">
