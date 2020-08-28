@@ -425,7 +425,7 @@ $global-radius: 6px !default;
 }
 
 .vertical-list {
-  margin: 0;
+  margin: 2rem;
   padding: 0;
   margin-left: 0;
   overflow: hidden;
@@ -440,7 +440,7 @@ $global-radius: 6px !default;
 }
 
 .list-item a {
-  margin: 2rem;
+  margin: 0;
   padding: 0.2rem;
   text-decoration: none;
   display: flex;
