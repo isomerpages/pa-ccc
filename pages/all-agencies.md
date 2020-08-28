@@ -8,7 +8,7 @@ title: All Agencies
    {%   for agency in site.data.agencies-ad   %}
     <li class="list-item">
       <a href="/agency/{{ agency.code }}" >
-        <div class="list-item">
+        <div>
             <img src="{{ agency.image-url }}" alt="{{ agency.name }}" />
         </div>
         <div class="list-item-text">
