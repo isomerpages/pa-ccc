@@ -424,8 +424,9 @@ $global-radius: 6px !default;
   flex-direction: column;  
 }
 
-.vertical-list {  
-  padding: 1rem;
+.vertical-list {
+  margin-left: 0!important;
+  padding: 0;
   overflow: hidden;
 }
 
