@@ -591,18 +591,13 @@ $global-radius: 6px !default;
 }
 
 .agency-body {
-  padding: 1rem;
+  padding: 0.5rem;
   overflow: hidden;
   border-radius: $global-radius;
 
   ul {
-    margin-left: 0px!important;
-    margin-right: 0px!important;
+    margin: 0;
     padding: 0;
-  }
-
-  list-item {
-    border-bottom: 1px solid #ccc;
   }
 }
 
