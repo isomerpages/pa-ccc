@@ -415,20 +415,18 @@ $global-radius: 6px !default;
 // top-eservices
 
 .list-container {
-  overflow: hidden;
-  border-radius: 1px;
+  background: white;
+  border-radius: $global-radius;
   box-shadow: 0 4px 4px #90c0cc;
-  border: 1px solid #ccc;
   display: flex;
   flex-direction: column;
-  background: white;
+  border: 1px solid #ccc;
 }
 
 .vertical-list {
-  margin: 2rem;
-  padding: 0;
-  margin-left: 0;
-  overflow: hidden;
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  padding: 1rem;
 }
 
 .vertical-list .list-item {
