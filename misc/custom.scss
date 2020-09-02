@@ -419,16 +419,14 @@ $global-radius: 6px !default;
   background: white;
   border-radius: $global-radius;
   box-shadow: 0 4px 4px #90c0cc;
-  display: flex;
-  flex-direction: column;
   border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;  
 }
 
-.vertical-list {
-  overflow: hidden;
-  display: flex;
-  border-bottom: 1px solid #ccc;
+.vertical-list {  
   padding: 1rem;
+  overflow: hidden;
 }
 
 .vertical-list .list-item {
