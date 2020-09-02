@@ -415,6 +415,7 @@ $global-radius: 6px !default;
 // top-eservices
 
 .list-container {
+  overflow: hidden;
   background: white;
   border-radius: $global-radius;
   box-shadow: 0 4px 4px #90c0cc;
@@ -424,6 +425,7 @@ $global-radius: 6px !default;
 }
 
 .vertical-list {
+  overflow: hidden;
   display: flex;
   border-bottom: 1px solid #ccc;
   padding: 1rem;
