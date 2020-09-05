@@ -1,9 +1,4 @@
 # agencies A-D
-- code: code
-  image-url: /images/small/code.png
-  name: name
-  website: website
-  svc-num: 0
 - code: ACRA
   image-url: /images/small/ACRA.png
   name: Accounting and Corporate Regulatory Authority
