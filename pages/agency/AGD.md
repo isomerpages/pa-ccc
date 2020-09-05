@@ -6,23 +6,29 @@ title: AGD
 
 <div class="agency">
   <div class="controls">
-    <span class="back-button">Back</span>
+    <span class="back-button"><a href="/all-agencies/">Back</a></span>
    </div>
   
   <div class="agency-header">
     {% for agency in site.data.agencies-ad %}   
       {% if agency.code == "AGD" %}
           <div>
-            <img src="/images/square/AGD.png" alt="{{ agency.name }}" />
+            <img src="/images/square/ACRA.png" alt="{{ agency.name }}" />
           </div>
           <div class="agency-details">
             <div class="agency-name">
-              <h2>{{ agency.code }}</h2>
+              <h3>{{ agency.code }}</h3>
               <p>{{ agency.name }}</p>
             </div>
             <div class="agency-meta">
               <a href="{{ agency.website }}">Visit Website</a>
-              <span>{{ agency.svc-num }} e-Services </span>
+              {% assign var1 = agency.svc-num | plus:0  %}
+              {% if var1 == 1 %}
+                {% assign svc1 = 'e-Service' %}
+              {% else %}
+               {% assign svc1 = 'e-Services' %}
+              {% endif %}
+              <span>{{ agency.svc-num }} {{ svc1 }} </span>
             </div>
           </div> 
       {% endif %}
@@ -45,5 +51,4 @@ title: AGD
     {% endfor %} 
   </ul>
   </div>
-
  </div>
