@@ -1,601 +1,606 @@
 # agencies A-D
- - code: ACRA
-   image-url: /images/small/ACRA.png
-   name: Accounting and Corporate Regulatory Authority
-   website: http://www.acra.gov.sg
-   svc-num: 0
- - code: AGD
-   image-url: /images/small/AGD.png
-   name: Accountant-General's Department
-   website: http://www.agd.gov.sg
-   svc-num: 0
- - code: AIC
-   image-url: /images/small/AIC.png
-   name: Agency for Integrated Care
-   website: http://www.aic.sg
-   svc-num: 0
- - code: ASTAR
-   image-url: /images/small/ASTAR.png
-   name: Agency for Science, Technology and Research
-   website: https://www.a-star.edu.sg
-   svc-num: 0
- - code: AVA
-   image-url: /images/small/AVA.png
-   name: Agri-Food & Veterinary Authority of Singapore
-   website: http://www.ava.gov.sg
-   svc-num: 0
- - code: BCA
-   image-url: /images/small/BCA.png
-   name: Building & Construction Authority
-   website: https://www.bca.gov.sg
-   svc-num: 0
- - code: BOA
-   image-url: /images/small/BOA.png
-   name: Board of Architects
-   website: http://www.boa.gov.sg
-   svc-num: 0
- - code: CAAS
-   image-url: /images/small/CAAS.png
-   name: Civil Aviation Authority of Singapore
-   website: https://www.caas.gov.sg
-   svc-num: 0
- - code: CCS
-   image-url: /images/small/CCS.png
-   name: Competition Commission of Singapore
-   website: https://www.ccs.gov.sg
-   svc-num: 0
- - code: CEA
-   image-url: /images/small/CEA.png
-   name: Council for Estate Agencies
-   website: http://www.cea.gov.sg
-   svc-num: 0
- - code: CMC
-   image-url: /images/small/CMC.png
-   name: Community Mediation Centre
-   website: https://www.mlaw.gov.sg/content/cmc/en.html
-   svc-num: 0
- - code: CNB
-   image-url: /images/small/CNB.png
-   name: Central Narcotics Bureau
-   website: http://www.cnb.gov.sg
-   svc-num: 0
- - code: CPE
-   image-url: /images/small/CPE.png
-   name: Council for Private Education
-   website: https://www.cpe.gov.sg
-   svc-num: 0
- - code: CPFB
-   image-url: /images/small/CPFB.png
-   name: Central Provident Fund Board
-   website: https://www.cpf.gov.sg
-   svc-num: 0
- - code: CPIB
-   image-url: /images/small/CPIB.png
-   name: Corrupt Practices Investigation Bureau
-   website: https://www.cpib.gov.sg
-   svc-num: 0
- - code: CRA
-   image-url: /images/small/CRA.png
-   name: Casino Regulatory Authority
-   website: http://www.cra.gov.sg
-   svc-num: 0
- - code: CSC
-   image-url: /images/small/CSC.png
-   name: Civil Service College
-   website: http://www.csc.sg
-   svc-num: 0
- - code: DOS
-   image-url: /images/small/DOS.png
-   name: Department of Statistics
-   website: http://www.singstat.gov.sg
-   svc-num: 0
- - code: DSTA
-   image-url: /images/small/DSTA.png
-   name: Defence Science and Technology Agency
-   website: https://www.dsta.gov.sg
-   svc-num: 0
- - code: ECDA
-   image-url: /images/small/ECDA.png
-   name: Early Childhood Development Agency
-   website: https://www.ecda.gov.sg
-   svc-num: 0
- - code: EDB
-   image-url: /images/small/EDB.png
-   name: Economic Development Board
-   website: https://www.edb.gov.sg
-   svc-num: 0
- - code: ELD
-   image-url: /images/small/ELD.png
-   name: Elections Department of Singapore
-   website: http://www.eld.gov.sg
-   svc-num: 0
- - code: EMA
-   image-url: /images/small/EMA.png
-   name: Energy Market Authority
-   website: https://www.ema.gov.sg
-   svc-num: 0
- - code: FJC
-   image-url: /images/small/FJC.png
-   name: Family Justice Courts
-   website: https://familyjusticecourts.gov.sg
-   svc-num: 0
- - code: GovTech
-   image-url: /images/small/GovTech.png
-   name: Government Technology Agency
-   website: https://www.tech.gov.sg/
-   svc-num: 0
- - code: HDB
-   image-url: /images/small/HDB.png
-   name: Housing & Development Board
-   website: http://www.hdb.gov.sg
-   svc-num: 0
- - code: HEB
-   image-url: /images/small/HEB.png
-   name: Hindu Endowments Board
-   website: https://heb.org.sg
-   svc-num: 0
- - code: HLB
-   image-url: /images/small/HLB.png
-   name: Hotels Licensing Board
-   website: http://www.hlb.gov.sg
-   svc-num: 0
- - code: HOMETEAMNS
-   image-url: /images/small/HOMETEAMNS.png
-   name: HomeTeamNS
-   website: http://www.hometeamns.sg
-   svc-num: 0
- - code: HPB
-   image-url: /images/small/HPB.png
-   name: Health Promotion Board
-   website: http://www.hpb.gov.sg
-   svc-num: 0
- - code: HSA
-   image-url: /images/small/HSA.png
-   name: Health Sciences Authority
-   website: http://www.hsa.gov.sg
-   svc-num: 0
- - code: ICA
-   image-url: /images/small/ICA.png
-   name: Immigration & Checkpoints Authority of Singapore
-   website: https://www.ica.gov.sg
-   svc-num: 0
- - code: IEGS
-   image-url: /images/small/IEGS.png
-   name: Institution of Engineers Singapore
-   website: https://www.ies.org.sg
-   svc-num: 0
- - code: IES
-   image-url: /images/small/IES.png
-   name: International Enterprise Singapore
-   website: http://www.iesingapore.gov.sg
-   svc-num: 0
- - code: IMDA
-   image-url: /images/small/IMDA.png
-   name: Infocomm Media Development Authority
-   website: http://www.imda.gov.sg
-   svc-num: 0
- - code: IPOS
-   image-url: /images/small/IPOS.png
-   name: Intellectual Property Office of Singapore
-   website: https://www.ipos.gov.sg
-   svc-num: 0
- - code: IRAS
-   image-url: /images/small/IRAS.png
-   name: Inland Revenue Authority of Singapore
-   website: https://www.iras.gov.sg
-   svc-num: 0
- - code: ISEAS
-   image-url: /images/small/ISEAS.png
-   name: Institute of Southeast Asian Studies
-   website: https://www.iseas.edu.sg
-   svc-num: 0
- - code: ITE
-   image-url: /images/small/ITE.png
-   name: Institute of Technical Education
-   website: https://www.ite.edu.sg
-   svc-num: 0
- - code: JTC
-   image-url: /images/small/JTC.png
-   name: JTC Corporation
-   website: http://www.jtc.gov.sg
-   svc-num: 0
- - code: LAB
-   image-url: /images/small/LAB.png
-   name: Legal Aid Bureau
-   website: www.mlaw.gov.sg/eservices/labesvc 
-   svc-num: 0
- - code: LTA
-   image-url: /images/small/LTA.png
-   name: Land Transport Authority
-   website: https://www.lta.gov.sg
-   svc-num: 0
- - code: MAS
-   image-url: /images/small/MAS.png
-   name: Monetary Authority of Singapore
-   website: http://www.mas.gov.sg
-   svc-num: 0
- - code: MCCY
-   image-url: /images/small/MCCY.png
-   name: Ministry of Culture, Community and Youth
-   website: https://www.mccy.gov.sg
-   svc-num: 0
- - code: MCCY-ROMM
-   image-url: /images/small/MCCY-ROMM.png
-   name: Registry of Muslim Marriages
-   website: https://www.romm.gov.sg
-   svc-num: 0
- - code: MCI
-   image-url: /images/small/MCI.png
-   name: Ministry of Communications and Information
-   website: https://www.mci.gov.sg
-   svc-num: 0
- - code: MEWR
-   image-url: /images/small/MEWR.png
-   name: Ministry of the Environment and Water Resources
-   website: http://www.mewr.gov.sg
-   svc-num: 0
- - code: MFA
-   image-url: /images/small/MFA.png
-   name: Ministry of Foreign Affairs
-   website: https://www.mfa.gov.sg
-   svc-num: 0
- - code: MHA
-   image-url: /images/small/MHA.png
-   name: Ministry of Home Affairs
-   website: https://www.mha.gov.sg
-   svc-num: 0
- - code: MINDEF
-   image-url: /images/small/MINDEF.png
-   name: Ministry of Defence
-   website: https://www.mindef.gov.sg
-   svc-num: 0
- - code: MLAW
-   image-url: /images/small/MLAW.png
-   name: Ministry of Law
-   website: https://www.mlaw.gov.sg
-   svc-num: 0
- - code: MLAW-IO
-   image-url: /images/small/MLAW-IO.png
-   name: Ministry of Law - Insolvency Office
-   website: https://www.mlaw.gov.sg/content/io/en.html
-   svc-num: 0
- - code: MLAW-LSRA
-   image-url: /images/small/MLAW-LSRA.png
-   name: Ministry of Law - Legal Services Regulatory Authority
-   website: https://www.mlaw.gov.sg/eservices/lsra/lsra-home/
-   svc-num: 0
- - code: MLAW-PTO
-   image-url: /images/small/MLAW-PTO.png
-   name: Ministry of Law - Public Trustee's Office
-   website: https://www.mlaw.gov.sg/content/pto/en.html
-   svc-num: 0
- - code: MLAW-ROM
-   image-url: /images/small/MLAW-ROM.png
-   name: Ministry of Law - Registry of Moneylenders
-   website: https://www.mlaw.gov.sg/content/rom/en.html
-   svc-num: 0
- - code: MLAW-ROP
-   image-url: /images/small/MLAW-ROP.png
-   name: Ministry of Law - Registry of Pawnbrokers
-   website: https://www.mlaw.gov.sg/content/rop/en.html
-   svc-num: 0
- - code: MND
-   image-url: /images/small/MND.png
-   name: Ministry of National Development
-   website: http://www.mnd.gov.sg
-   svc-num: 0
- - code: MOE
-   image-url: /images/small/MOE.png
-   name: Ministry of Education
-   website: https://www.moe.gov.sg
-   svc-num: 0
- - code: MOF
-   image-url: /images/small/MOF.png
-   name: Ministry of Finance
-   website: http://www.mof.gov.sg
-   svc-num: 0
- - code: MOH
-   image-url: /images/small/MOH.png
-   name: Ministry of Health
-   website: https://www.moh.gov.sg
-   svc-num: 0
- - code: MOH-FPAB
-   image-url: /images/small/MOH-FPAB.png
-   name: Family Physicians Accreditation Board
-   website: http://www.healthprofessionals.gov.sg/fpab
-   svc-num: 0
- - code: MOM
-   image-url: /images/small/MOM.png
-   name: Ministry of Manpower
-   website: http://www.mom.gov.sg
-   svc-num: 0
- - code: MOT
-   image-url: /images/small/MOT.png
-   name: Ministry of Transport
-   website: http://www.mot.gov.sg
-   svc-num: 0
- - code: MPA
-   image-url: /images/small/MPA.png
-   name: Maritime and Port Authority of Singapore
-   website: http://www.mpa.gov.sg
-   svc-num: 0
- - code: MSF
-   image-url: /images/small/MSF.png
-   name: Ministry of Social and Family Development
-   website: https://www.msf.gov.sg
-   svc-num: 0
- - code: MSF-ROM
-   image-url: /images/small/MSF-ROM.png
-   name: Registry of Marriages
-   website: https://www.rom.gov.sg
-   svc-num: 0
- - code: MTI
-   image-url: /images/small/MTI.png
-   name: Ministry of Trade and Industry
-   website: https://www.mti.gov.sg
-   svc-num: 0
- - code: MUIS
-   image-url: /images/small/MUIS.png
-   name: Majlis Ugama Islam Singapura
-   website: http://www.muis.gov.sg
-   svc-num: 0
- - code: NAC
-   image-url: /images/small/NAC.png
-   name: National Arts Council
-   website: https://www.nac.gov.sg
-   svc-num: 0
- - code: NCSS
-   image-url: /images/small/NCSS.png
-   name: National Council of Social Service
-   website: https://www.ncss.gov.sg
-   svc-num: 0
- - code: NEA
-   image-url: /images/small/NEA.png
-   name: National Environment Agency
-   website: http://www.nea.gov.sg
-   svc-num: 0
- - code: NHB
-   image-url: /images/small/NHB.png
-   name: National Heritage Board
-   website: http://www.nhb.gov.sg
-   svc-num: 0
- - code: NIC
-   image-url: /images/small/NIC.png
-   name: National Integration Council
-   website: https://www.nationalintegrationcouncil.org.sg
-   svc-num: 0
- - code: NLB
-   image-url: /images/small/NLB.png
-   name: National Library Board
-   website: http://www.nlb.gov.sg
-   svc-num: 0
- - code: NP
-   image-url: /images/small/NP.png
-   name: Ngee Ann Polytechnic
-   website: http://www.np.edu.sg
-   svc-num: 0
- - code: NPARKS
-   image-url: /images/small/NPARKS.png
-   name: National Parks Board
-   website: https://www.nparks.gov.sg
-   svc-num: 0
- - code: NPTD
-   image-url: /images/small/NPTD.png
-   name: National Population and Talent Division
-   website: http://www.nptd.gov.sg
-   svc-num: 0
- - code: NRF
-   image-url: /images/small/NRF.png
-   name: National Research Foundation
-   website: http://www.nrf.gov.sg
-   svc-num: 0
- - code: NYC
-   image-url: /images/small/NYC.png
-   name: National Youth Council
-   website: https://www.nyc.gov.sg/
-   svc-num: 0
- - code: NYP
-   image-url: /images/small/NYP.png
-   name: Nanyang Polytechnic
-   website: http://www.nyp.edu.sg
-   svc-num: 0
- - code: PA
-   image-url: /images/small/PA.png
-   name: People's Association
-   website: https://www.onepa.sg
-   svc-num: 0
- - code: PARL
-   image-url: /images/small/PARL.png
-   name: Parliament of Singapore
-   website: https://www.parliament.gov.sg
-   svc-num: 0
- - code: PDPC
-   image-url: /images/small/PDPC.png
-   name: Personal Data Protection Commission
-   website: https://www.pdpc.gov.sg
-   svc-num: 0
- - code: PEB
-   image-url: /images/small/PEB.png
-   name: Professional Engineers Board, Singapore
-   website: https://www.peb.gov.sg
-   svc-num: 0
- - code: PMO
-   image-url: /images/small/PMO.png
-   name: Prime Minister's Office
-   website: http://www.pmo.gov.sg
-   svc-num: 0
- - code: PRIS
-   image-url: /images/small/PRIS.png
-   name: Singapore Prison Service
-   website: https://www.epris.gov.sg
-   svc-num: 0
- - code: PSD
-   image-url: /images/small/PSD.png
-   name: Public Service Division
-   website: http://www.psd.gov.sg
-   svc-num: 0
- - code: PTC
-   image-url: /images/small/PTC.png
-   name: Public Transport Council
-   website: https://www.ptc.gov.sg
-   svc-num: 0
- - code: PUB
-   image-url: /images/small/PUB.png
-   name: National Water Agency
-   website: http://www.pub.gov.sg
-   svc-num: 0
- - code: REACH
-   image-url: /images/small/REACH.png
-   name: Reaching Everyone for Active Citizenry @ Home
-   website: https://www.reach.gov.sg
-   svc-num: 0
- - code: RP
-   image-url: /images/small/RP.png
-   name: Republic Polytechnic
-   website: http://www.rp.edu.sg
-   svc-num: 0
- - code: SC
-   image-url: /images/small/SC.png
-   name: Singapore Customs
-   website: http://www.customs.gov.sg
-   svc-num: 0
- - code: SCB
-   image-url: /images/small/SCB.png
-   name: Science Centre Board
-   website: http://www.science.edu.sg/
-   svc-num: 0
- - code: SCDF
-   image-url: /images/small/SCDF.png
-   name: Singapore Civil Defence Board
-   website: https://www.scdf.gov.sg
-   svc-num: 0
- - code: SCORE
-   image-url: /images/small/SCORE.png
-   name: Singapore Corporation of Rehabilitative Enterprises
-   website: http://www.score.gov.sg
-   svc-num: 0
- - code: SDC
-   image-url: /images/small/SDC.png
-   name: Sentosa Development Corporation
-   website: http://www.sdc.com.sg
-   svc-num: 0
- - code: SDNC
-   image-url: /images/small/SDNC.png
-   name: Singapore Dental Council
-   website: http://www.sdc.gov.sg
-   svc-num: 0
- - code: SEAB
-   image-url: /images/small/SEAB.png
-   name: Singapore Examinations and Assessment Board
-   website: http://www.seab.gov.sg
-   svc-num: 0
- - code: SGH
-   image-url: /images/small/SGH.png
-   name: Singapore General Hospital
-   website: http://www.sgh.com.sg
-   svc-num: 0
- - code: SINGHEALTH
-   image-url: /images/small/SINGHEALTH.png
-   name: Singapore Health Services
-   website: https://www.singhealth.com.sg
-   svc-num: 0
- - code: SINGPASS
-   image-url: /images/small/SINGPASS.png
-   name: Singapore Personal Access
-   website: https://www.singpass.gov.sg
-   svc-num: 0
- - code: SLA
-   image-url: /images/small/SLA.png
-   name: Singapore Land Authority
-   website: https://www.sla.gov.sg
-   svc-num: 0
- - code: SLF
-   image-url: /images/small/SLF.png
-   name: Singapore Labour Foundation
-   website: https://www.gov.sg/sgdi/ministries/mom/statutory-boards/slf
-   svc-num: 0
- - code: SMC
-   image-url: /images/small/SMC.png
-   name: Singapore Medical Council
-   website: http://www.smc.gov.sg
-   svc-num: 0
- - code: SNB
-   image-url: /images/small/SNB.png
-   name: Singapore Nursing Board
-   website: http://www.snb.gov.sg
-   svc-num: 0
- - code: SP
-   image-url: /images/small/SP.png
-   name: Singapore Polytechnic
-   website: http://www.sp.edu.sg
-   svc-num: 0
- - code: SPC
-   image-url: /images/small/SPC.png
-   name: Singapore Pharmacy Council
-   website: http://www.spc.gov.sg
-   svc-num: 0
- - code: SPF
-   image-url: /images/small/SPF.png
-   name: Singapore Police Force
-   website: http://www.police.gov.sg
-   svc-num: 0
- - code: SPRING
-   image-url: /images/small/SPRING.png
-   name: SPRING Singapore
-   website: http://www.spring.gov.sg
-   svc-num: 0
- - code: SPS
-   image-url: /images/small/SPS.png
-   name: Singapore Prison Service
-   website: http://www.sps.gov.sg
-   svc-num: 0
- - code: SSG
-   image-url: /images/small/SSG.png
-   name: SkillsFuture Singapore
-   website: http://www.ssg-wsg.gov.sg
-   svc-num: 0
- - code: STATECOURTS
-   image-url: /images/small/STATECOURTS.png
-   name: The State Courts of Singapore
-   website: https://www.statecourts.gov.sg
-   svc-num: 0
- - code: STB
-   image-url: /images/small/STB.png
-   name: Singapore Tourism Board
-   website: https://www.stb.gov.sg
-   svc-num: 0
- - code: SUPCOURT
-   image-url: /images/small/SUPCOURT.png
-   name: Supreme Court
-   website: http://www.supremecourt.gov.sg
-   svc-num: 0
- - code: TCMPB
-   image-url: /images/small/TCMPB.png
-   name: Traditional Chinese Medicine Practitioner's Board
-   website: http://www.tcmpb.gov.sg
-   svc-num: 0
- - code: TOTE
-   image-url: /images/small/TOTE.png
-   name: Singapore Totalisator Board
-   website: http://www.toteboard.gov.sg
-   svc-num: 0
- - code: TP
-   image-url: /images/small/TP.png
-   name: Temasek Polytechnic
-   website: http://www.tp.edu.sg
-   svc-num: 0
- - code: TPD
-   image-url: /images/small/TPD.png
-   name: Traffic Police Department
-   website: https://www.gov.sg/sgdi/ministries/mha/departments/spf/departments/tp
-   svc-num: 0
- - code: URA
-   image-url: /images/small/URA.png
-   name: Urban Redevelopment Authority
-   website: https://www.ura.gov.sg
-   svc-num: 0
- - code: WSG
-   image-url: /images/small/WSG.png
-   name: Workforce Singapore
-   website: http://www.ssg-wsg.gov.sg
-   svc-num: 0
+- code: code
+  image-url: /images/small/code.png
+  name: name
+  website: website
+  svc-num: 0
+- code: ACRA
+  image-url: /images/small/ACRA.png
+  name: Accounting and Corporate Regulatory Authority
+  website: http://www.acra.gov.sg
+  svc-num: 0
+- code: AGD
+  image-url: /images/small/AGD.png
+  name: Accountant-General's Department
+  website: http://www.agd.gov.sg
+  svc-num: 0
+- code: AIC
+  image-url: /images/small/AIC.png
+  name: Agency for Integrated Care
+  website: http://www.aic.sg
+  svc-num: 0
+- code: ASTAR
+  image-url: /images/small/ASTAR.png
+  name: Agency for Science, Technology and Research
+  website: https://www.a-star.edu.sg
+  svc-num: 0
+- code: AVA
+  image-url: /images/small/AVA.png
+  name: Agri-Food & Veterinary Authority of Singapore
+  website: http://www.ava.gov.sg
+  svc-num: 0
+- code: BCA
+  image-url: /images/small/BCA.png
+  name: Building & Construction Authority
+  website: https://www.bca.gov.sg
+  svc-num: 0
+- code: BOA
+  image-url: /images/small/BOA.png
+  name: Board of Architects
+  website: http://www.boa.gov.sg
+  svc-num: 0
+- code: CAAS
+  image-url: /images/small/CAAS.png
+  name: Civil Aviation Authority of Singapore
+  website: https://www.caas.gov.sg
+  svc-num: 0
+- code: CCS
+  image-url: /images/small/CCS.png
+  name: Competition Commission of Singapore
+  website: https://www.ccs.gov.sg
+  svc-num: 0
+- code: CEA
+  image-url: /images/small/CEA.png
+  name: Council for Estate Agencies
+  website: http://www.cea.gov.sg
+  svc-num: 0
+- code: CMC
+  image-url: /images/small/CMC.png
+  name: Community Mediation Centre
+  website: https://www.mlaw.gov.sg/content/cmc/en.html
+  svc-num: 0
+- code: CNB
+  image-url: /images/small/CNB.png
+  name: Central Narcotics Bureau
+  website: http://www.cnb.gov.sg
+  svc-num: 0
+- code: CPE
+  image-url: /images/small/CPE.png
+  name: Council for Private Education
+  website: https://www.cpe.gov.sg
+  svc-num: 0
+- code: CPFB
+  image-url: /images/small/CPFB.png
+  name: Central Provident Fund Board
+  website: https://www.cpf.gov.sg
+  svc-num: 0
+- code: CPIB
+  image-url: /images/small/CPIB.png
+  name: Corrupt Practices Investigation Bureau
+  website: https://www.cpib.gov.sg
+  svc-num: 0
+- code: CRA
+  image-url: /images/small/CRA.png
+  name: Casino Regulatory Authority
+  website: http://www.cra.gov.sg
+  svc-num: 0
+- code: CSC
+  image-url: /images/small/CSC.png
+  name: Civil Service College
+  website: http://www.csc.sg
+  svc-num: 0
+- code: DOS
+  image-url: /images/small/DOS.png
+  name: Department of Statistics
+  website: http://www.singstat.gov.sg
+  svc-num: 0
+- code: DSTA
+  image-url: /images/small/DSTA.png
+  name: Defence Science and Technology Agency
+  website: https://www.dsta.gov.sg
+  svc-num: 0
+- code: ECDA
+  image-url: /images/small/ECDA.png
+  name: Early Childhood Development Agency
+  website: https://www.ecda.gov.sg
+  svc-num: 0
+- code: EDB
+  image-url: /images/small/EDB.png
+  name: Economic Development Board
+  website: https://www.edb.gov.sg
+  svc-num: 0
+- code: ELD
+  image-url: /images/small/ELD.png
+  name: Elections Department of Singapore
+  website: http://www.eld.gov.sg
+  svc-num: 0
+- code: EMA
+  image-url: /images/small/EMA.png
+  name: Energy Market Authority
+  website: https://www.ema.gov.sg
+  svc-num: 0
+- code: FJC
+  image-url: /images/small/FJC.png
+  name: Family Justice Courts
+  website: https://familyjusticecourts.gov.sg
+  svc-num: 0
+- code: GovTech
+  image-url: /images/small/GovTech.png
+  name: Government Technology Agency
+  website: https://www.tech.gov.sg/
+  svc-num: 0
+- code: HDB
+  image-url: /images/small/HDB.png
+  name: Housing & Development Board
+  website: http://www.hdb.gov.sg
+  svc-num: 0
+- code: HEB
+  image-url: /images/small/HEB.png
+  name: Hindu Endowments Board
+  website: https://heb.org.sg
+  svc-num: 0
+- code: HLB
+  image-url: /images/small/HLB.png
+  name: Hotels Licensing Board
+  website: http://www.hlb.gov.sg
+  svc-num: 0
+- code: HOMETEAMNS
+  image-url: /images/small/HOMETEAMNS.png
+  name: HomeTeamNS
+  website: http://www.hometeamns.sg
+  svc-num: 0
+- code: HPB
+  image-url: /images/small/HPB.png
+  name: Health Promotion Board
+  website: http://www.hpb.gov.sg
+  svc-num: 0
+- code: HSA
+  image-url: /images/small/HSA.png
+  name: Health Sciences Authority
+  website: http://www.hsa.gov.sg
+  svc-num: 0
+- code: ICA
+  image-url: /images/small/ICA.png
+  name: Immigration & Checkpoints Authority of Singapore
+  website: https://www.ica.gov.sg
+  svc-num: 0
+- code: IEGS
+  image-url: /images/small/IEGS.png
+  name: Institution of Engineers Singapore
+  website: https://www.ies.org.sg
+  svc-num: 0
+- code: IES
+  image-url: /images/small/IES.png
+  name: International Enterprise Singapore
+  website: http://www.iesingapore.gov.sg
+  svc-num: 0
+- code: IMDA
+  image-url: /images/small/IMDA.png
+  name: Infocomm Media Development Authority
+  website: http://www.imda.gov.sg
+  svc-num: 0
+- code: IPOS
+  image-url: /images/small/IPOS.png
+  name: Intellectual Property Office of Singapore
+  website: https://www.ipos.gov.sg
+  svc-num: 0
+- code: IRAS
+  image-url: /images/small/IRAS.png
+  name: Inland Revenue Authority of Singapore
+  website: https://www.iras.gov.sg
+  svc-num: 0
+- code: ISEAS
+  image-url: /images/small/ISEAS.png
+  name: Institute of Southeast Asian Studies
+  website: https://www.iseas.edu.sg
+  svc-num: 0
+- code: ITE
+  image-url: /images/small/ITE.png
+  name: Institute of Technical Education
+  website: https://www.ite.edu.sg
+  svc-num: 0
+- code: JTC
+  image-url: /images/small/JTC.png
+  name: JTC Corporation
+  website: http://www.jtc.gov.sg
+  svc-num: 0
+- code: LAB
+  image-url: /images/small/LAB.png
+  name: Legal Aid Bureau
+  website: www.mlaw.gov.sg/eservices/labesvc 
+  svc-num: 0
+- code: LTA
+  image-url: /images/small/LTA.png
+  name: Land Transport Authority
+  website: https://www.lta.gov.sg
+  svc-num: 0
+- code: MAS
+  image-url: /images/small/MAS.png
+  name: Monetary Authority of Singapore
+  website: http://www.mas.gov.sg
+  svc-num: 0
+- code: MCCY
+  image-url: /images/small/MCCY.png
+  name: Ministry of Culture, Community and Youth
+  website: https://www.mccy.gov.sg
+  svc-num: 0
+- code: MCCY-ROMM
+  image-url: /images/small/MCCY-ROMM.png
+  name: Registry of Muslim Marriages
+  website: https://www.romm.gov.sg
+  svc-num: 0
+- code: MCI
+  image-url: /images/small/MCI.png
+  name: Ministry of Communications and Information
+  website: https://www.mci.gov.sg
+  svc-num: 0
+- code: MEWR
+  image-url: /images/small/MEWR.png
+  name: Ministry of the Environment and Water Resources
+  website: http://www.mewr.gov.sg
+  svc-num: 0
+- code: MFA
+  image-url: /images/small/MFA.png
+  name: Ministry of Foreign Affairs
+  website: https://www.mfa.gov.sg
+  svc-num: 0
+- code: MHA
+  image-url: /images/small/MHA.png
+  name: Ministry of Home Affairs
+  website: https://www.mha.gov.sg
+  svc-num: 0
+- code: MINDEF
+  image-url: /images/small/MINDEF.png
+  name: Ministry of Defence
+  website: https://www.mindef.gov.sg
+  svc-num: 0
+- code: MLAW
+  image-url: /images/small/MLAW.png
+  name: Ministry of Law
+  website: https://www.mlaw.gov.sg
+  svc-num: 0
+- code: MLAW-IO
+  image-url: /images/small/MLAW-IO.png
+  name: Ministry of Law - Insolvency Office
+  website: https://www.mlaw.gov.sg/content/io/en.html
+  svc-num: 0
+- code: MLAW-LSRA
+  image-url: /images/small/MLAW-LSRA.png
+  name: Ministry of Law - Legal Services Regulatory Authority
+  website: https://www.mlaw.gov.sg/eservices/lsra/lsra-home/
+  svc-num: 0
+- code: MLAW-PTO
+  image-url: /images/small/MLAW-PTO.png
+  name: Ministry of Law - Public Trustee's Office
+  website: https://www.mlaw.gov.sg/content/pto/en.html
+  svc-num: 0
+- code: MLAW-ROM
+  image-url: /images/small/MLAW-ROM.png
+  name: Ministry of Law - Registry of Moneylenders
+  website: https://www.mlaw.gov.sg/content/rom/en.html
+  svc-num: 0
+- code: MLAW-ROP
+  image-url: /images/small/MLAW-ROP.png
+  name: Ministry of Law - Registry of Pawnbrokers
+  website: https://www.mlaw.gov.sg/content/rop/en.html
+  svc-num: 0
+- code: MND
+  image-url: /images/small/MND.png
+  name: Ministry of National Development
+  website: http://www.mnd.gov.sg
+  svc-num: 0
+- code: MOE
+  image-url: /images/small/MOE.png
+  name: Ministry of Education
+  website: https://www.moe.gov.sg
+  svc-num: 0
+- code: MOF
+  image-url: /images/small/MOF.png
+  name: Ministry of Finance
+  website: http://www.mof.gov.sg
+  svc-num: 0
+- code: MOH
+  image-url: /images/small/MOH.png
+  name: Ministry of Health
+  website: https://www.moh.gov.sg
+  svc-num: 0
+- code: MOH-FPAB
+  image-url: /images/small/MOH-FPAB.png
+  name: Family Physicians Accreditation Board
+  website: http://www.healthprofessionals.gov.sg/fpab
+  svc-num: 0
+- code: MOM
+  image-url: /images/small/MOM.png
+  name: Ministry of Manpower
+  website: http://www.mom.gov.sg
+  svc-num: 0
+- code: MOT
+  image-url: /images/small/MOT.png
+  name: Ministry of Transport
+  website: http://www.mot.gov.sg
+  svc-num: 0
+- code: MPA
+  image-url: /images/small/MPA.png
+  name: Maritime and Port Authority of Singapore
+  website: http://www.mpa.gov.sg
+  svc-num: 0
+- code: MSF
+  image-url: /images/small/MSF.png
+  name: Ministry of Social and Family Development
+  website: https://www.msf.gov.sg
+  svc-num: 0
+- code: MSF-ROM
+  image-url: /images/small/MSF-ROM.png
+  name: Registry of Marriages
+  website: https://www.rom.gov.sg
+  svc-num: 0
+- code: MTI
+  image-url: /images/small/MTI.png
+  name: Ministry of Trade and Industry
+  website: https://www.mti.gov.sg
+  svc-num: 0
+- code: MUIS
+  image-url: /images/small/MUIS.png
+  name: Majlis Ugama Islam Singapura
+  website: http://www.muis.gov.sg
+  svc-num: 0
+- code: NAC
+  image-url: /images/small/NAC.png
+  name: National Arts Council
+  website: https://www.nac.gov.sg
+  svc-num: 0
+- code: NCSS
+  image-url: /images/small/NCSS.png
+  name: National Council of Social Service
+  website: https://www.ncss.gov.sg
+  svc-num: 0
+- code: NEA
+  image-url: /images/small/NEA.png
+  name: National Environment Agency
+  website: http://www.nea.gov.sg
+  svc-num: 0
+- code: NHB
+  image-url: /images/small/NHB.png
+  name: National Heritage Board
+  website: http://www.nhb.gov.sg
+  svc-num: 0
+- code: NIC
+  image-url: /images/small/NIC.png
+  name: National Integration Council
+  website: https://www.nationalintegrationcouncil.org.sg
+  svc-num: 0
+- code: NLB
+  image-url: /images/small/NLB.png
+  name: National Library Board
+  website: http://www.nlb.gov.sg
+  svc-num: 0
+- code: NP
+  image-url: /images/small/NP.png
+  name: Ngee Ann Polytechnic
+  website: http://www.np.edu.sg
+  svc-num: 0
+- code: NPARKS
+  image-url: /images/small/NPARKS.png
+  name: National Parks Board
+  website: https://www.nparks.gov.sg
+  svc-num: 0
+- code: NPTD
+  image-url: /images/small/NPTD.png
+  name: National Population and Talent Division
+  website: http://www.nptd.gov.sg
+  svc-num: 0
+- code: NRF
+  image-url: /images/small/NRF.png
+  name: National Research Foundation
+  website: http://www.nrf.gov.sg
+  svc-num: 0
+- code: NYC
+  image-url: /images/small/NYC.png
+  name: National Youth Council
+  website: https://www.nyc.gov.sg/
+  svc-num: 0
+- code: NYP
+  image-url: /images/small/NYP.png
+  name: Nanyang Polytechnic
+  website: http://www.nyp.edu.sg
+  svc-num: 0
+- code: PA
+  image-url: /images/small/PA.png
+  name: People's Association
+  website: https://www.onepa.sg
+  svc-num: 0
+- code: PARL
+  image-url: /images/small/PARL.png
+  name: Parliament of Singapore
+  website: https://www.parliament.gov.sg
+  svc-num: 0
+- code: PDPC
+  image-url: /images/small/PDPC.png
+  name: Personal Data Protection Commission
+  website: https://www.pdpc.gov.sg
+  svc-num: 0
+- code: PEB
+  image-url: /images/small/PEB.png
+  name: Professional Engineers Board, Singapore
+  website: https://www.peb.gov.sg
+  svc-num: 0
+- code: PMO
+  image-url: /images/small/PMO.png
+  name: Prime Minister's Office
+  website: http://www.pmo.gov.sg
+  svc-num: 0
+- code: PRIS
+  image-url: /images/small/PRIS.png
+  name: Singapore Prison Service
+  website: https://www.epris.gov.sg
+  svc-num: 0
+- code: PSD
+  image-url: /images/small/PSD.png
+  name: Public Service Division
+  website: http://www.psd.gov.sg
+  svc-num: 0
+- code: PTC
+  image-url: /images/small/PTC.png
+  name: Public Transport Council
+  website: https://www.ptc.gov.sg
+  svc-num: 0
+- code: PUB
+  image-url: /images/small/PUB.png
+  name: National Water Agency
+  website: http://www.pub.gov.sg
+  svc-num: 0
+- code: REACH
+  image-url: /images/small/REACH.png
+  name: Reaching Everyone for Active Citizenry @ Home
+  website: https://www.reach.gov.sg
+  svc-num: 0
+- code: RP
+  image-url: /images/small/RP.png
+  name: Republic Polytechnic
+  website: http://www.rp.edu.sg
+  svc-num: 0
+- code: SC
+  image-url: /images/small/SC.png
+  name: Singapore Customs
+  website: http://www.customs.gov.sg
+  svc-num: 0
+- code: SCB
+  image-url: /images/small/SCB.png
+  name: Science Centre Board
+  website: http://www.science.edu.sg/
+  svc-num: 0
+- code: SCDF
+  image-url: /images/small/SCDF.png
+  name: Singapore Civil Defence Board
+  website: https://www.scdf.gov.sg
+  svc-num: 0
+- code: SCORE
+  image-url: /images/small/SCORE.png
+  name: Singapore Corporation of Rehabilitative Enterprises
+  website: http://www.score.gov.sg
+  svc-num: 0
+- code: SDC
+  image-url: /images/small/SDC.png
+  name: Sentosa Development Corporation
+  website: http://www.sdc.com.sg
+  svc-num: 0
+- code: SDNC
+  image-url: /images/small/SDNC.png
+  name: Singapore Dental Council
+  website: http://www.sdc.gov.sg
+  svc-num: 0
+- code: SEAB
+  image-url: /images/small/SEAB.png
+  name: Singapore Examinations and Assessment Board
+  website: http://www.seab.gov.sg
+  svc-num: 0
+- code: SGH
+  image-url: /images/small/SGH.png
+  name: Singapore General Hospital
+  website: http://www.sgh.com.sg
+  svc-num: 0
+- code: SINGHEALTH
+  image-url: /images/small/SINGHEALTH.png
+  name: Singapore Health Services
+  website: https://www.singhealth.com.sg
+  svc-num: 0
+- code: SINGPASS
+  image-url: /images/small/SINGPASS.png
+  name: Singapore Personal Access
+  website: https://www.singpass.gov.sg
+  svc-num: 0
+- code: SLA
+  image-url: /images/small/SLA.png
+  name: Singapore Land Authority
+  website: https://www.sla.gov.sg
+  svc-num: 0
+- code: SLF
+  image-url: /images/small/SLF.png
+  name: Singapore Labour Foundation
+  website: https://www.gov.sg/sgdi/ministries/mom/statutory-boards/slf
+  svc-num: 0
+- code: SMC
+  image-url: /images/small/SMC.png
+  name: Singapore Medical Council
+  website: http://www.smc.gov.sg
+  svc-num: 0
+- code: SNB
+  image-url: /images/small/SNB.png
+  name: Singapore Nursing Board
+  website: http://www.snb.gov.sg
+  svc-num: 0
+- code: SP
+  image-url: /images/small/SP.png
+  name: Singapore Polytechnic
+  website: http://www.sp.edu.sg
+  svc-num: 0
+- code: SPC
+  image-url: /images/small/SPC.png
+  name: Singapore Pharmacy Council
+  website: http://www.spc.gov.sg
+  svc-num: 0
+- code: SPF
+  image-url: /images/small/SPF.png
+  name: Singapore Police Force
+  website: http://www.police.gov.sg
+  svc-num: 0
+- code: SPRING
+  image-url: /images/small/SPRING.png
+  name: SPRING Singapore
+  website: http://www.spring.gov.sg
+  svc-num: 0
+- code: SPS
+  image-url: /images/small/SPS.png
+  name: Singapore Prison Service
+  website: http://www.sps.gov.sg
+  svc-num: 0
+- code: SSG
+  image-url: /images/small/SSG.png
+  name: SkillsFuture Singapore
+  website: http://www.ssg-wsg.gov.sg
+  svc-num: 0
+- code: STATECOURTS
+  image-url: /images/small/STATECOURTS.png
+  name: The State Courts of Singapore
+  website: https://www.statecourts.gov.sg
+  svc-num: 0
+- code: STB
+  image-url: /images/small/STB.png
+  name: Singapore Tourism Board
+  website: https://www.stb.gov.sg
+  svc-num: 0
+- code: SUPCOURT
+  image-url: /images/small/SUPCOURT.png
+  name: Supreme Court
+  website: http://www.supremecourt.gov.sg
+  svc-num: 0
+- code: TCMPB
+  image-url: /images/small/TCMPB.png
+  name: Traditional Chinese Medicine Practitioner's Board
+  website: http://www.tcmpb.gov.sg
+  svc-num: 0
+- code: TOTE
+  image-url: /images/small/TOTE.png
+  name: Singapore Totalisator Board
+  website: http://www.toteboard.gov.sg
+  svc-num: 0
+- code: TP
+  image-url: /images/small/TP.png
+  name: Temasek Polytechnic
+  website: http://www.tp.edu.sg
+  svc-num: 0
+- code: TPD
+  image-url: /images/small/TPD.png
+  name: Traffic Police Department
+  website: https://www.gov.sg/sgdi/ministries/mha/departments/spf/departments/tp
+  svc-num: 0
+- code: URA
+  image-url: /images/small/URA.png
+  name: Urban Redevelopment Authority
+  website: https://www.ura.gov.sg
+  svc-num: 0
+- code: WSG
+  image-url: /images/small/WSG.png
+  name: Workforce Singapore
+  website: http://www.ssg-wsg.gov.sg
+  svc-num: 0
