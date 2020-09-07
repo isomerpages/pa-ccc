@@ -15,7 +15,7 @@ title: BOA
     {% for agency in site.data.agencies-ad %}   
       {% if agency.code == myAgency %}
           <div>
-            <img src="/images/square/" {{ myAgency }} ".png" alt="{{ agency.name }}" />
+            <img src="/images/square/{{ myAgency }}.png" alt="{{ agency.name }}" />
           </div>
           <div class="agency-details">
             <div class="agency-name">
