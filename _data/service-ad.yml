@@ -447,7 +447,7 @@
 - agency: CPFB
   image-url: /images/small/CPFB.png
   title: Employers' Online Services
-  description: Employers can use this online service to do the following: Submit "e-Submission", View "Employer Details", Submit "Online Applications", Submit "Medisave/MediShield Reimbursement", Signup "My Alerts" and Submit "Enquiry on Status of Previous Transactions.
+  description: Employers can use this online service to do the following: Submit "e-Submission", View "Employer Details", Submit "Online Applications", Submit "Medisave/MediShield Reimbursement", Signup "My Alerts" and Submit "Enquiry on Status of Previous Transactions".
   url: https://www.cpf.gov.sg/eSvc/Web/Employer/LogOn?returnUrl=/eSvc/Web/PortalServices/EmployerPortalServices
 - agency: CPFB
   image-url: /images/small/CPFB.png
@@ -562,7 +562,7 @@
 - agency: GovTech
   image-url: /images/small/GovTech.png
   title: eCitizen
-  description: Browse handy guides and tips ('Topics') on transacting with the government, find government eServices and much more, all within eCitizen!
+  description: Browse handy guides and tips ("Topics") on transacting with the government, find government eServices and much more, all within eCitizen!
   url: https://www.ecitizen.gov.sg
 - agency: GovTech
   image-url: /images/small/GovTech.png
