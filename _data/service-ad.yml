@@ -299,7 +299,7 @@
   title: Microchip Number Enquiry
   description: To determine whether a microchip tag for an animal is registered with AVA.
   url: https://ifast.ava.gov.sg/EServiceWeb/microchipenquiry.aspx
- - agency: BCA
+- agency: BCA
   image-url: /images/small/BCA.png
   title: e-Application for Copy of Building Plans and Information
   description: Application for Inspection and Making Copies of the Approved Building & Structural Drawings From Building Control Records
@@ -324,83 +324,3 @@
   title: Smart Phone App for CONQUAS (iPhone)
   description: This smart phone application for CONQUAS provides CONQUAS/Quality Mark (QM) information at finger tips for users on the move.
   url: https://itunes.apple.com/sg/app/conquas./id556890969?mt=8
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Aeronautical Information Management (AIM) System
-  description: This eService allows pilots, airlines operators and AIS users to retrieve eNOTAM, file and submit e-flight plan.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/aeronautical-information-management-system
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Application for Flying of Unmanned Aircraft
-  description: This eService allows you to apply for Operator or Activity permit to operate an unmanned aircraft under certain conditions.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/application-for-flying-of-unmanned-aircraft
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: AIP Email Notification Service
-  description: This eService allows you to subscribe to free email alert when new information under the Aeronautical Information Package (AIP) has been published.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/aip-email-notification-service
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Application for Obstacle Clearance
-  description: This eService allows you to apply for clearance to erect cranes / tall construction machineries and ship crossing around the vicinity of Changi airport.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/application-for-obstacle-clearance
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Email Notification Service
-  description: This eService allows you to subscribe to free email alert when changes in Regulations & Guidelines have been published.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/email-notification-service
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Civil Aviation Personnel Licensing System (CAPELS)
-  description: This eService allows flight crew, air traffic controllers and aircraft maintenance engineers to submit their licensing applications to CAAS
-  url: https://www.caas.gov.sg/e-services-forms/e-services/civil-aviation-personnel-licensing-system
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Electronic Licensing Medical Records System
-  description: his eService allows flight crew and air traffic controller to apply for medical assessment and submit notification of decreased in medical fitness.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/electronic-licensing-medical-records-system
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Flight Crew Examination
-  description: This eService allows flight crew to apply for flight crew computer-based examinations
-  url: https://www.caas.gov.sg/e-services-forms/forms/flight-crew-licensing-examination
-- agency: CAAS
-  image-url: /images/small/CAAS.png
-  title: Application for Aerial Activities
-  description: This eService allows you to apply for permit to carry out aerial activities, such as Aerial Photography, Kite Flying, Fireworks / Pyrotechnics, etc, in and around the vicinity of Changi airport.
-  url: https://www.caas.gov.sg/e-services-forms/e-services/application-for-aerial-activities
-- agency: CEA
-  image-url: /images/small/CEA.png
-  title: Public Register
-  description: You can perform checks on whether the Estate Agents are licensed and salespersons registered as well as find out their past
-  url: http://www.cea.gov.sg/cea/app/newimplpublicregister/publicregister.jspa
-- agency: CEA
-  image-url: /images/small/CEA.png
-  title: CEA@SG (iPhone/iPad)
-  description: The CEA Public Register is a free m-service that enables consumers to verify licensing and registration details of estate agents and salespersons on the go.
-  url: https://itunes.apple.com/gb/app/cea-sg/id557473132?mt=8
-- agency: CMC
-  image-url: /images/small/CMC.png
-  title: Online registration form to register for mediation
-  description: Register a case with the Community Mediation Centre for mediation
-  url: http://www.cmc.gov.sg/register-your-case/online-registration-form.html
-- agency: CMC
-  image-url: /images/small/CMC.png
-  title: Online volunteer registration form
-  description: Volunteer with the Community Mediation Centre
-  url: http://www.cmc.gov.sg/content/cmc/en/cmc-mediators/how-to-become-a-cmc-mediator.html
-- agency: CPE
-  image-url: /images/small/CPE.png
-  title: Registration Status of Private Education Institutions
-  description: Search and listing of all registered private schools in Singapore.
-  url: http://www.cpe.gov.sg/for-students/registration-status-of-private-education-institutions-peis-in-singapore
-- agency: CPE
-  image-url: /images/small/CPE.png
-  title: EduTrust Certification Status of Private Education Institutions
-  description: Search and listing of all registered private schools with EduTrust certification in Singapore.
-  url: http://www.cpe.gov.sg/for-students/edutrust-certification-status-of-peis
-- agency: CPE
-  image-url: /images/small/CPE.png
-  title: Deregistered Private Education Institutions
-  description: List of all deregistered private schools in Singapore from May 2011
-  url: http://www.cpe.gov.sg/for-students/deregistered-peis
