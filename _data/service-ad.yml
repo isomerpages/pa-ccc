@@ -552,7 +552,7 @@
 - agency: GovTech
   image-url: /images/small/GovTech.png
   title: eCitizen
-  description: Browse handy guides and tips (“Topics”) on transacting with the government, find government eServices and much more, all within eCitizen!
+  description: Browse handy guides and tips ('Topics') on transacting with the government, find government eServices and much more, all within eCitizen!
   url: https://www.ecitizen.gov.sg
 - agency: GovTech
   image-url: /images/small/GovTech.png
@@ -732,7 +732,7 @@
 - agency: HPB
   image-url: /images/small/HPB.png
   title: Child Consent Portal
-  description: Parents of Primary and Secondary school students can login to the portal via SingPass to update the medical information, immunisation* and dental consents of their child to HPB via the Portal. *For Primary School Students only
+  description: Parents of Primary and Secondary school students can login to the portal via SingPass to update the medical information, immunisation and dental consents of their child to HPB via the Portal. For Primary School Students only
   url: https://childconsent.hpb.gov.sg
 - agency: HSA
   image-url: /images/small/HSA.png
