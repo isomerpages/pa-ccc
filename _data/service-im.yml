@@ -37,7 +37,7 @@
 - agency: ICA
   image-url: /images/small/ICA.png
   title: Student's Pass Online Application and Registration (For Polytechnics & Universities) (SOLAR)
-  description: This eService allows foreign students to apply Student's Pass to pursue courses offered by Institutes of Higher Learning (IHLs) in Singapore. These IHLs include polytechnics, universities, and foreign universities with offshore campuses in Singapore.
+  description: This eService allows foreign students to apply Student's Pass to pursue courses offered by Institutes of Higher Learning (IHLs) in Singapore. These IHLs include polytechnics and universities, and foreign universities with offshore campuses in Singapore.
   url: https://solar.ica.gov.sg
 - agency: ICA
   image-url: /images/small/ICA.png
@@ -267,7 +267,7 @@
 - agency: MCCY
   image-url: /images/small/MCCY.png
   title: Youth Corps Singapore (YCS) Portal
-  description: The Youth Corps Singapore portal is a one-stop centre for youths to discover volunteering opportunities and participate in a wide range of events to enrich themselves to serve better. It empowers youths to create and manage their community projects ...
+  description: The Youth Corps Singapore portal is a one-stop centre for youths to discover volunteering opportunities and participate in a wide range of events to enrich themselves to serve better. It empowers youths to create and manage their community projects and rally fellow youths to participate in their project initiatives.
   url: http://www.youthcorps.sg
 - agency: MCCY-ROMM
   image-url: /images/small/MCCY-ROMM.png
@@ -277,7 +277,7 @@
 - agency: MCCY-ROMM
   image-url: /images/small/MCCY-ROMM.png
   title: Change Solemnization Details
-  description: Application to Change Solemnization Details before the scheduled date of solemnization. Application can be made to change one or more of the following only, date, time and venue of solemnization, witness(es), solemnizer, hantaran and mas kahwin.
+  description: Application to Change Solemnization Details before the scheduled date of solemnization. Application can be made to change one or more of the following only:date, time and venue of solemnization, witness(es), solemnizer, hantaran and mas kahwin.
   url: https://www.romm.gov.sg/ebook/change_solemnisation_instruction.asp
 - agency: MCCY-ROMM
   image-url: /images/small/MCCY-ROMM.png
@@ -1019,65 +1019,17 @@
   title: MPA e-Payment Services
   description: MPA customers can use this service to pay their MPA bills / charges using credit cards or direct debit.
   url: http://www.mpa.gov.sg/sites/global_navigation/e-services/e_services.page
+
 - agency: MSF
   image-url: /images/small/MSF.png
-  title: Baby Bonus Online Enquiry System
-  description: An online enquiry service to allow you to view your child's cash gift disbursement and Child Development Account (CDA).
-  url: http://www.babybonus.msf.gov.sg
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Assistance Finder
-  description: Not sure what ComCare assistance is right for you? Use the Assistance Finder to help you.
-  url: http://comcare.sg/AssistanceFinder/questions/q1.aspx
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Child Care and Student Care Centres Search
-  description: Search for child care, infant care and student care centres around Singapore, by operating hours, fees range and type of service required.
-  url: http://www.childcarelink.gov.sg/ccls/home/CCLS_Home.jsp
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Directory of Family and Community Services
-  url: http://www.msf.gov.sg/dfcs
+  title: Adoption E-Learning
+  description: We encourage parents who are thinking of adopting to complete this E-learning, which provides you with insights on adoption issues and procedures. It also helps you learn and understand whether you are ready and prepared to be an adoptive parent.
+  url: https://app.adoption.gov.sg/e-Learning/eLearningHomePage.aspx 
 - agency: MSF
   image-url: /images/small/MSF.png
   title: Application for Casino Exclusion & Visit Limit
   description: Problem gambling is an addiction that could lead to serious problems for both the gamblers and their families. It is important to recognise the risks. If you or your family members require extra help to refrain from entering the casinos, you should apply.
   url: http://www.ncpg.org.sg
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Subsidy Calculator
-  description: Not sure how much ComCare student care, child care and kindergarten subsidies you may be able to get? Use the subsidy calculator to help you.
-  url: https://www.childcarelink.gov.sg/ccls/home/Subsidy_Calculator.jsp
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Apply for Pre-Adoption Workshops
-  description: It is mandatory for all prospective adopters to attend pre-adoption briefing conducted by VWOs (accredited by MSF). The briefing will provide relevant information on adoption, such as adoption process and the responsibilities of being an adoptive parent.
-  url: https://app.adoption.gov.sg/RegisterWorkshopIntro.aspx
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Apply for Home Study for Adoption
-  description: If you wish to adopt a child who is not a Singapore Citizen or PR, you must undergo a home study by an MSF accredited VWO to assess your eligibility and suitability to adopt a child. This must be done prior to starting the adoption process.
-  url: https://app.adoption.gov.sg/ApplyForHomeStudy.aspx
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Adoption E-Learning
-  description: We encourage parents who are thinking of adopting to complete this E-learning, which provides you with insights on adoption issues and procedures. It also helps you learn and understand whether you are ready and prepared to be an adoptive parent.
-  url: https://app.adoption.gov.sg/e-Learning/eLearningHomePage.aspx
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Office of the Public Guardian (OPG)
-  description: The Office of the Public Guardian (OPG) website provides quick and easy information and access for those who wish to make their Lasting Power of Attorney or attend OPG events.
-  url: https://www.publicguardian.gov.sg/
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Electronic Lasting Power of Attorney (softcopy LPA)
-  description: Access the softcopy of the Electronic Lasting Power of Attorney (softcopy LPA)
-  url: https://eservice-msf.msf.gov.sg
-- agency: MSF
-  image-url: /images/small/MSF.png
-  title: Help Centres for Gambling related issues
-  description: You can speak to someone regarding your gambling related issues. Search for a centre around Singapore, by operating hours and the type of services provided.
-  url: http://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?category=1
 - agency: MSF
   image-url: /images/small/MSF.png
   title: Application for Reimbursement under Government-Paid Leave Schemes (For Employers)
@@ -1090,9 +1042,59 @@
   url: https://www.profamilyleave.gov.sg/App/Home/RedirectToModule?claimtype=S
 - agency: MSF
   image-url: /images/small/MSF.png
+  title: Apply for Home Study for Adoption
+  description: If you wish to adopt a child who is not a Singapore Citizen or PR, you must undergo a home study by an MSF accredited VWO to assess your eligibility and suitability to adopt a child. This must be done prior to starting the adoption process.
+  url: https://app.adoption.gov.sg/ApplyForHomeStudy.aspx
+- agency: MSF
+  image-url: /images/small/MSF.png
   title: Apply for Mandatory Parenting Programme
-  description: The Mandatory Parenting Programme is a consultation session for parents with minor children at the Divorce Support Specialist Agencies  before they file for divorce. ...
+  description: The Mandatory Parenting Programme is a consultation session for parents with minor children at the Divorce Support Specialist Agencies  before they file for divorce. All parents with children below 14 years old are required under Women’s Charter Section 94A to attend this programme if they do not have a signed formal agreement pertaining to a parenting plan and all other divorce matters.
   url: http://www.msf.gov.sg/mandatoryparentingprogramme
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Apply for Pre-Adoption Workshops
+  description: It is mandatory for all prospective adopters to attend pre-adoption briefing conducted by VWOs (accredited by MSF). The briefing will provide relevant information on adoption, such as adoption process and the responsibilities of being an adoptive parent.
+  url: https://app.adoption.gov.sg/RegisterWorkshopIntro.aspx  
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Assistance Finder
+  description: Not sure what ComCare assistance is right for you? Use the Assistance Finder to help you.
+  url: http://comcare.sg/AssistanceFinder/questions/q1.aspx  
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Baby Bonus Online Enquiry System
+  description: An online enquiry service to allow you to view your child's cash gift disbursement and Child Development Account (CDA).
+  url: http://www.babybonus.msf.gov.sg
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Child Care and Student Care Centres Search
+  description: Search for child care, infant care and student care centres around Singapore, by operating hours, fees range and type of service required.
+  url: http://www.childcarelink.gov.sg/ccls/home/CCLS_Home.jsp
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Directory of Family and Community Services
+  url: http://www.msf.gov.sg/dfcs
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Electronic Lasting Power of Attorney (softcopy LPA)
+  description: Access the softcopy of the Electronic Lasting Power of Attorney (softcopy LPA)
+  url: https://eservice-msf.msf.gov.sg
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Help Centres for Gambling related issues
+  description: You can speak to someone regarding your gambling related issues. Search for a centre around Singapore, by operating hours and the type of services provided.
+  url: http://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?category=1
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Office of the Public Guardian (OPG)
+  description: The Office of the Public Guardian (OPG) website provides quick and easy information and access for those who wish to make their Lasting Power of Attorney or attend OPG events.
+  url: https://www.publicguardian.gov.sg/
+- agency: MSF
+  image-url: /images/small/MSF.png
+  title: Subsidy Calculator
+  description: Not sure how much ComCare student care, child care and kindergarten subsidies you may be able to get? Use the subsidy calculator to help you.
+  url: https://www.childcarelink.gov.sg/ccls/home/Subsidy_Calculator.jsp
+
 - agency: MSF-ROM
   image-url: /images/small/MSF-ROM.png
   title: Filing Notice of Marriage
@@ -1143,4 +1145,3 @@
   title: Halal Certifications' Applications and Renewals Fees Payments
   description: Apply for Halal certifications and certificate renewals online
   url: https://www.halal.sg/ehalalv2/login.aspx
-  
