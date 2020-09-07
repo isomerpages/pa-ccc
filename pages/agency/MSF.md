@@ -42,7 +42,7 @@ title: MSF
    
   <div class="agency-body">
   <ul>
-  {% for eservice in site.data.service-ad %}
+  {% for eservice in site.data.service-im %}
     {% if eservice.agency == my_agency %}
     <li class="list-item">
       <a href="{{ eservice.url }}">        
