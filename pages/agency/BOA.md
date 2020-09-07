@@ -4,7 +4,7 @@ breadcrumb: BOA
 title: BOA
 ---
 
-{% assign myAgency = 'BOA' %}
+{% assign myAgency = "BOA" %}
 
 <div class="agency">
   <div class="controls">
