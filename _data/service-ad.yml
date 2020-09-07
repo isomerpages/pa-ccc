@@ -436,11 +436,6 @@
   url: https://www.cpf.gov.sg/eSvc/Web/PortalServices/MemberPortalServices
 - agency: CPFB
   image-url: /images/small/CPFB.png
-  title: Employers' Online Services
-  description: Employers can use this online service to do the following: Submit "e-Submission", View "Employer Details", Submit "Online Applications", Submit "Medisave/MediShield Reimbursement", Signup "My Alerts" and Submit "Enquiry on Status of Previous Transactions"
-  url: https://www.cpf.gov.sg/eSvc/Web/Employer/LogOn?returnUrl=/eSvc/Web/PortalServices/EmployerPortalServices
-- agency: CPFB
-  image-url: /images/small/CPFB.png
   title: e-Submission
   description: Employers can use this service to make CPF contributions for their employees.
   url: https://www2.cpf.gov.sg/ert
