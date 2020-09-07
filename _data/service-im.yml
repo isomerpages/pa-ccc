@@ -1,4 +1,4 @@
-#Agencies - (I - M)
+# Agencies - (I - M)
 - agency: ICA
   image-url: /images/small/ICA.png
   title: Extension of Short Term Visit Pass (e-XTEND)
@@ -37,7 +37,7 @@
 - agency: ICA
   image-url: /images/small/ICA.png
   title: Student's Pass Online Application and Registration (For Polytechnics & Universities) (SOLAR)
-  description: This eService allows foreign students to apply Student's Pass to pursue courses offered by Institutes of Higher Learning (IHLs) in Singapore. These IHLs include polytechnics and universities, and foreign universities with offshore campuses in Singapore.
+  description: This eService allows foreign students to apply Student's Pass to pursue courses offered by Institutes of Higher Learning (IHLs) in Singapore. These IHLs include polytechnics, universities, and foreign universities with offshore campuses in Singapore.
   url: https://solar.ica.gov.sg
 - agency: ICA
   image-url: /images/small/ICA.png
@@ -267,7 +267,7 @@
 - agency: MCCY
   image-url: /images/small/MCCY.png
   title: Youth Corps Singapore (YCS) Portal
-  description: The Youth Corps Singapore portal is a one-stop centre for youths to discover volunteering opportunities and participate in a wide range of events to enrich themselves to serve better. It empowers youths to create and manage their community projects and rally fellow youths to participate in their project initiatives.
+  description: The Youth Corps Singapore portal is a one-stop centre for youths to discover volunteering opportunities and participate in a wide range of events to enrich themselves to serve better. It empowers youths to create and manage their community projects ...
   url: http://www.youthcorps.sg
 - agency: MCCY-ROMM
   image-url: /images/small/MCCY-ROMM.png
@@ -1091,7 +1091,7 @@
 - agency: MSF
   image-url: /images/small/MSF.png
   title: Apply for Mandatory Parenting Programme
-  description: The Mandatory Parenting Programme is a consultation session for parents with minor children at the Divorce Support Specialist Agencies  before they file for divorce. All parents with children below 14 years old are required under Women’s Charter Section 94A to attend this programme if they do not have a signed formal agreement pertaining to a parenting plan and all other divorce matters.
+  description: The Mandatory Parenting Programme is a consultation session for parents with minor children at the Divorce Support Specialist Agencies  before they file for divorce. ...
   url: http://www.msf.gov.sg/mandatoryparentingprogramme
 - agency: MSF-ROM
   image-url: /images/small/MSF-ROM.png
