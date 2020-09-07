@@ -4,7 +4,10 @@ breadcrumb: BOA
 title: BOA
 ---
 
-{% assign myAgency = "BOA" %}
+{% assign my_agency = "BOA" %}
+{% capture my_image %}
+  /images/square/{{ myAgency }}.png
+{% endcapture %}
 
 <div class="agency">
   <div class="controls">
@@ -13,9 +16,9 @@ title: BOA
   
   <div class="agency-header">
     {% for agency in site.data.agencies-ad %}   
-      {% if agency.code == myAgency %}
+      {% if agency.code == my_agency %}
           <div>
-            <img src="/images/square/{{ myAgency }}.png" alt="{{ agency.name }}" />
+            <img src="{{ my_image }}" alt="{{ agency.name }}" />
           </div>
           <div class="agency-details">
             <div class="agency-name">
@@ -40,7 +43,7 @@ title: BOA
   <div class="agency-body">
   <ul>
   {% for eservice in site.data.service-ad %}
-    {% if eservice.agency == myAgency %}
+    {% if eservice.agency == my_agency %}
     <li class="list-item">
       <a href="{{ eservice.url }}">        
         <div class="list-item-text">
