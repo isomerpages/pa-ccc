@@ -6,7 +6,7 @@ title: BOA
 
 {% assign my_agency = "BOA" %}
 {% capture my_image %}
-  /images/square/{{ myAgency }}.png
+  /images/square/{{ my_agency }}.png
 {% endcapture %}
 
 <div class="agency">
