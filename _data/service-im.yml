@@ -1,1 +1,12 @@
-
+# Agencies - (I - M)
+- agency: ICA
+  image-url: /images/small/ICA.png
+  title: Extension of Short Term Visit Pass (e-XTEND)
+  description: This eService allows you to apply for an extension of a short term visit pass.
+  url: https://extend.ica.gov.sg
+- agency: ICA
+  image-url: /images/small/ICA.png
+  title: Online Birth and Death Extracts Application System (eXtracts Online)
+  description: This eService allows you to apply for birth/death extract(s) or search of a birth/death record.
+  url: https://extracts.ica.gov.sg
+  
