@@ -512,16 +512,17 @@
 - agency: DOS
   image-url: /images/small/DOS.png
   title: SingStat Table Builder
-  description: Contains statistical data series on the Singapore economy and population that users may select to build customized data tables, export these tables in ...
+  description: Contains statistical data series on the Singapore economy and population that users may select to build customized data tables, export these tables in different file formats or plot graphs and charts.
   url: http://www.singstat.gov.sg/tablebuilder
 - agency: DOS
   image-url: /images/small/DOS.png
   title: SingStat mobile app (iPhone/iPad)
-  description: Download the new SingStat mobile app and enjoy free and timely access to commonly used statistics. With some 200 charts spanning 25 data categories, ...
+  description: Download the new SingStat mobile app and enjoy free and timely access to commonly used statistics. With some 200 charts spanning 25 data categories, users will be able to visualise the data easily.
   url: https://itunes.apple.com/sg/app/singstat/id935197005?mt=8&ign-mpt=uo%3D4
 - agency: DOS
   image-url: /images/small/DOS.png
   title: SingStat mobile app (Android)
-  description: Download the new SingStat mobile app and enjoy free and timely access to commonly used statistics. With some 200 charts spanning 25 data categories, ...
+  description: Download the new SingStat mobile app and enjoy free and timely access to commonly used statistics. With some 200 charts spanning 25 data categories, users will be able to visualise the data easily.
   url: https://play.google.com/store/apps/details?id=sg.gov.singstat&hl=en
+  
   
