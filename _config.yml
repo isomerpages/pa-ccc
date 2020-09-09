@@ -41,7 +41,7 @@ safe: false
 plugins:
   - jekyll-feed
   - jekyll-assets
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
 description: test test
 
