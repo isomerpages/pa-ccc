@@ -1,5 +1,5 @@
 ---
-layout: datagovsg-search-1
+layout: datagovsg-search
 title: Search
 permalink: /find-eservices/
 breadcrumb: Search eServices
