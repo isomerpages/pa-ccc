@@ -172,6 +172,56 @@ $global-radius: 6px !default;
 	    }
 	}
 }
+	  
+.bp-container {
+    margin: 0 auto;
+    position: relative;
+}
+.bp-container.is-full {
+    margin: 0;
+}
+@media screen and (min-width: 1024px) {
+    .bp-container {
+        max-width: 960px;
+        width: 960px;
+    }
+    .bp-container.is-fluid {
+        margin-left: 32px;
+        margin-right: 32px;
+        max-width: none;
+        width: auto;
+    }
+}
+@media screen and (max-width: 1279px) {
+    .bp-container.is-widescreen {
+        max-width: 1216px;
+        width: auto;
+    }
+}
+@media screen and (max-width: 1407px) {
+    .bp-container.is-fullhd {
+        max-width: 1344px;
+        width: auto;
+    }
+}
+@media screen and (min-width: 1280px) {
+    .bp-container {
+        max-width: 1216px;
+        width: 1216px;
+    }
+}
+@media screen and (min-width: 1408px) {
+    .bp-container {
+        max-width: 1280px;
+        width: 1280px;
+    }
+}
+	  
+.bp-section.is-small.bp-section-pagetitle {
+    padding: 1.5rem;
+    padding-bottom: 2.25rem;
+    background-color: #0487bf;
+}
 
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
