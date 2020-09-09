@@ -217,6 +217,24 @@ $global-radius: 6px !default;
     }
 }
 	  
+.bp-section {
+    padding: 3rem 1.5rem;
+}
+@media screen and (min-width: 1024px) {
+    .bp-section.is-small {
+        padding: 1.5rem 1.5rem;
+    }
+    .bp-section.is-medium {
+        padding: 9rem 1.5rem;
+    }
+    .bp-section.is-large {
+        padding: 18rem 1.5rem;
+    }
+    .bp-section.is-full {
+        padding: 0;
+    }
+}
+	  
 .bp-section.is-small.bp-section-pagetitle {
     padding: 1.5rem;
     padding-bottom: 2.25rem;
