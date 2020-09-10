@@ -38,6 +38,11 @@ layout: skeleton
     </div>
 </section>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/1.0.11/purify.min.js" integrity="sha384-ELH09WGRUcBpRT6iHTekFB2YBCT9kFMsKG4Y9LUAevHjihu8Otri8Sm01QgXOTht" crossorigin="anonymous"></script>
+<script src="{{- "/assets/js/pagination-util.js" | relative_url -}}" crossorigin="anonymous"></script>
+<script src="{{- "/assets/js/search.js" | relative_url -}}" crossorigin="anonymous"></script>
+<script src="{{- "/assets/js/datagovsg-search.js" | relative_url -}}" crossorigin="anonymous"></script>
+
 <section class="bp-section">
     <div class="bp-container padding--top--sm">
         <div class="row">
@@ -62,10 +67,3 @@ layout: skeleton
 </div>
 
 <span style="display: none;" id="resourceId">{{- page.datagovsg-id -}}</span>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/1.0.11/purify.min.js" integrity="sha384-ELH09WGRUcBpRT6iHTekFB2YBCT9kFMsKG4Y9LUAevHjihu8Otri8Sm01QgXOTht" crossorigin="anonymous"></script>
-<script src="{{- "/assets/js/pagination-util.js" | relative_url -}}" crossorigin="anonymous"></script>
-<script src="{{- "/assets/js/search.js" | relative_url -}}" crossorigin="anonymous"></script>
-<script src="{{- "/assets/js/datagovsg-search.js" | relative_url -}}" crossorigin="anonymous"></script>
-
