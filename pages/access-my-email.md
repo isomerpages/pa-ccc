@@ -3,8 +3,7 @@ title: Access My Email
 permalink: /access-my-email/
 ---
 
-<div class="list-container mail-services">
-  
+<div>  
    <ul class="block-grid">  
     <li class="grid-item" >
         <a href="https://mail.google.com"><img src= "/images/grid/GMAIL.png" alt="GMAIL" />
