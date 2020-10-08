@@ -1,6 +1,6 @@
 ---
 layout: datagovsg-search-1
-title: Search
+title: Find eServices
 permalink: /find-eservices/
 breadcrumb: Search eServices
 collection_name: find-eservices
