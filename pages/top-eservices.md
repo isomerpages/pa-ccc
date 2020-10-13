@@ -12,8 +12,8 @@ permalink: /top-eservices/
           <img src="{{ serviceItem.image-url }}" alt="{{ serviceItem.agency }}" />
         </div>
         <div class="list-item-text">
-          <h5>{{ serviceItem.agency }}</h6>
-          <h6>{{ serviceItem.title }}</h5>
+          <h6>{{ serviceItem.agency }}</h6>
+          <h5>{{ serviceItem.title }}</h5>
           <p>{{ serviceItem.description }}</p>
         </div>
       </a>
