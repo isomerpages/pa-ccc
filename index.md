@@ -10,7 +10,7 @@ sections:
         title: CitizenConnect
         subtitle: 
         background: /images/hero-banner.png
-        button: Contact Us
+        button: CitizenConnectCentre
         url: /contact-us/
         key_highlights:
             - title: Top Agencies
