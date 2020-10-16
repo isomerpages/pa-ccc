@@ -1,8 +1,8 @@
 ---
 layout: contact_us
-title: Contact Us
+title: CitizenConnectCentre
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: People's Association
 locations:
   - title: Main Office
     address:
