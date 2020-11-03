@@ -1,6 +1,6 @@
 title: CitizenConnectCentre
 url: "https://citizenconnectcentre.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/ccc_logo.png
+favicon: /images/icon-192x192.png
 
 # Site colors
 colors:
