@@ -9,7 +9,7 @@ sections:
     - hero: 
         title: CitizenConnect
         subtitle: 
-        background: /images/hero-banner.png
+        background: /images/cc1.jpg
         button: CitizenConnectCentre
         url: /contact-us/
         key_highlights:
