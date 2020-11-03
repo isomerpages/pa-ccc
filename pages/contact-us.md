@@ -1,9 +1,9 @@
 ---
-layout: contact_us
+layout: 
 title: About CitizenConnect
 permalink: /contact-us/
-agency_name: CitizenConnectCentre
 ---
+
 <h4>About CitizenConnect</h4>
 Located at Our Tampines Hub and 25 community centres island-wide, the Citizen Connect Centres (CCCs) provide an easy and convenient means for citizens to transact with the Government online. The CCCs offer free access to Internet-enabled computing devices, with trained staff present to assist and teach users to perform online transactions.
 
