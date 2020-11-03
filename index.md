@@ -1,10 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
+title: CitizenConnectCentre
 description: Brief site description here
 image: /images/ccc_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero: 
         title: 
@@ -21,6 +20,5 @@ sections:
               url: /top-eservices/
             - title: All Agencies
               description: All Agencies
-              url: /all-agencies/
-  
+              url: /all-agencies/ 
 ---
