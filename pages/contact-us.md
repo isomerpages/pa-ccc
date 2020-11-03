@@ -13,6 +13,6 @@ title: About CitizenConnect
 <li> Registering and paying for activities organised by Community Centres or Clubs</li>
 <li> Booking sport facilities via Singapore Sports Council</li>
 <li> Applying or renewing HDB/URA season parking tickets</li>
-
+</br>
 <p>As part of on-going enhancements to make it easier for citizens to self-help, all the CCCs have been upgraded to enhanced CCCs (also known as CCC+) to better cater to the needs of the elderly and people with special needs. These enhancements include touch screen interfaces and a more intuitive landing page.</p>
 
