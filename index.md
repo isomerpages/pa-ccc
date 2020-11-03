@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: CitizenConnectCentre
-description: Brief site description here
+description: CitizenConnectCentre
 image: /images/ccc_logo.png
 permalink: /
 sections:
