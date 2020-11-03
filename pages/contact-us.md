@@ -9,8 +9,9 @@ Located at Our Tampines Hub and 25 community centres island-wide, the Citizen Co
 
 Examples of the transactions that can be done at CCCs include:
 
-Viewing CPF statements
-Registering and paying for activities organised by Community Centres or Clubs
-Booking sport facilities via Singapore Sports Council
-Applying or renewing HDB/URA season parking tickets
+- Viewing CPF statements
+- Registering and paying for activities organised by Community Centres or Clubs
+- Booking sport facilities via Singapore Sports Council
+- Applying or renewing HDB/URA season parking tickets
+
 As part of on-going enhancements to make it easier for citizens to self-help, all the CCCs have been upgraded to enhanced CCCs (also known as CCC+) to better cater to the needs of the elderly and people with special needs. These enhancements include touch screen interfaces and a more intuitive landing page.
