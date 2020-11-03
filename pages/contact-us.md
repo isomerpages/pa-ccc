@@ -1,7 +1,7 @@
 ---
-layout: 
-title: About CitizenConnect
 permalink: /contact-us/
+breadcrumb: About CitizenConnect
+title: About CitizenConnect
 ---
 
 <h4>About CitizenConnect</h4>
