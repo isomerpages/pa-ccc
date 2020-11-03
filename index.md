@@ -10,7 +10,7 @@ sections:
         title: 
         subtitle: 
         background: /images/cc1.jpg
-        button: Abot CitizenConnect
+        button: About CitizenConnect
         url: /contact-us/
         key_highlights:
             - title: Top Agencies
