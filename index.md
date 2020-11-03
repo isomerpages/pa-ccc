@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero: 
-        title: CitizenConnect
+        title: 
         subtitle: 
         background: /images/cc1.jpg
-        button: CitizenConnectCentre
+        button: Abot CitizenConnect
         url: /contact-us/
         key_highlights:
             - title: Top Agencies
