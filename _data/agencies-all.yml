@@ -1,19 +1,19 @@
-# Agencies - all
+# Agencies - all (updated on 2020-11-05)
 - name: Accounting and Corporate Regulatory Authority
   code: ACRA
   image-url: /images/small/ACRA.png
   website: http://www.acra.gov.sg
-  svc-num: 4
+  svc-num: 0
 - name: Accountant-General's Department
   code: AGD
   image-url: /images/small/AGD.png
   website: http://www.agd.gov.sg
-  svc-num: 2
+  svc-num: 0
 - name: Agency for Integrated Care
   code: AIC
   image-url: /images/small/AIC.png
   website: http://www.aic.sg
-  svc-num: 27
+  svc-num: 0
 - name: Agency for Science, Technology and Research
   code: ASTAR
   image-url: /images/small/ASTAR.png
@@ -23,7 +23,7 @@
   code: BCA
   image-url: /images/small/BCA.png
   website: https://www.bca.gov.sg
-  svc-num: 5
+  svc-num: 0
 - name: Board of Architects
   code: BOA
   image-url: /images/small/BOA.png
@@ -33,7 +33,7 @@
   code: CAAS
   image-url: /images/small/CAAS.png
   website: https://www.caas.gov.sg
-  svc-num: 9
+  svc-num: 0
 - name: Competition Commission of Singapore
   code: CCS
   image-url: /images/small/CCS.png
@@ -43,12 +43,12 @@
   code: CEA
   image-url: /images/small/CEA.png
   website: http://www.cea.gov.sg
-  svc-num: 2
+  svc-num: 0
 - name: Community Mediation Centre
   code: CMC
   image-url: /images/small/CMC.png
   website: https://www.mlaw.gov.sg/content/cmc/en.html
-  svc-num: 2
+  svc-num: 0
 - name: Central Narcotics Bureau
   code: CNB
   image-url: /images/small/CNB.png
@@ -58,17 +58,17 @@
   code: CPE
   image-url: /images/small/CPE.png
   website: https://www.cpe.gov.sg
-  svc-num: 3
+  svc-num: 0
 - name: Central Provident Fund Board
   code: CPFB
   image-url: /images/small/CPFB.png
   website: https://www.cpf.gov.sg
-  svc-num: 15
+  svc-num: 0
 - name: Corrupt Practices Investigation Bureau
   code: CPIB
   image-url: /images/small/CPIB.png
   website: https://www.cpib.gov.sg
-  svc-num: 5
+  svc-num: 0
 - name: Casino Regulatory Authority
   code: CRA
   image-url: /images/small/CRA.png
@@ -78,12 +78,12 @@
   code: CSC
   image-url: /images/small/CSC.png
   website: http://www.csc.sg
-  svc-num: 1
+  svc-num: 0
 - name: Department of Statistics
   code: DOS
   image-url: /images/small/DOS.png
   website: http://www.singstat.gov.sg
-  svc-num: 5
+  svc-num: 0
 - name: Defence Science and Technology Agency
   code: DSTA
   image-url: /images/small/DSTA.png
@@ -93,7 +93,7 @@
   code: ECDA
   image-url: /images/small/ECDA.png
   website: https://www.ecda.gov.sg
-  svc-num: 1
+  svc-num: 0
 - name: Economic Development Board
   code: EDB
   image-url: /images/small/EDB.png
@@ -103,7 +103,7 @@
   code: ELD
   image-url: /images/small/ELD.png
   website: http://www.eld.gov.sg
-  svc-num: 3
+  svc-num: 0
 - name: Energy Market Authority
   code: EMA
   image-url: /images/small/EMA.png
@@ -113,12 +113,12 @@
   code: FJC
   image-url: /images/small/FJC.png
   website: https://familyjusticecourts.gov.sg
-  svc-num: 1
+  svc-num: 0
 - name: Government Technology Agency
   code: GovTech
   image-url: /images/small/GovTech.png
   website: https://www.tech.gov.sg/
-  svc-num: 2
+  svc-num: 0
 - name: Housing & Development Board
   code: HDB
   image-url: /images/small/HDB.png
@@ -488,7 +488,7 @@
   code: SFA
   image-url: /images/small/SFA.png
   website: https://www.sfa.gov.sg/
-  svc-num: 18
+  svc-num: 0
 - name: Singapore General Hospital
   code: SGH
   image-url: /images/small/SGH.png
@@ -599,3 +599,4 @@
   image-url: /images/small/WSG.png
   website: http://www.ssg-wsg.gov.sg
   svc-num: 0
+  
