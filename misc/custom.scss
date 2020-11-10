@@ -13,7 +13,7 @@ $secondary-hover: lighten($secondary, 10%);
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
 
-$gap: 32px !default;
+$gap: 2px !default;
 $desktop: 960px + (2 * $gap) !default;
 $global-radius: 6px !default;
 	  
