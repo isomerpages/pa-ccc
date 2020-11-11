@@ -14,7 +14,7 @@ $secondary-hover: lighten($secondary, 10%);
 {%- endfor -%}
 
 $gap: 32px !default;
-$desktop: 1200px + (2 * $gap) !default;
+$desktop: 1300px + (2 * $gap) !default;
 $global-radius: 6px !default;
 	  
 // Mixins
