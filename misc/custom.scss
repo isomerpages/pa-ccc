@@ -14,8 +14,7 @@ $secondary-hover: lighten($secondary, 10%);
 {%- endfor -%}
 
 $gap: 32px !default;
-// $desktop: 1300px + (2 * $gap) !default;
-$desktop: 1300px + (2 * $gap) !important;
+$desktop: 960px + (2 * $gap) !default;
 $global-radius: 6px !default;
 	  
 // Mixins
@@ -347,6 +346,7 @@ $global-radius: 6px !default;
 // top-agencies
 	  
 .block-grid {
+  width: 1200px;
   margin: 0;
   padding: 0;
   display: flex;
