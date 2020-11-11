@@ -134,6 +134,11 @@ $global-radius: 6px !default;
 	color: $secondary !important;
 	border-bottom: 1px solid $secondary !important;
 }
+	  
+// float button control
+.float-buttons {
+	 display: none;
+}
 
 // Button
 
