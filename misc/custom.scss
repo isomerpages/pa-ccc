@@ -20,7 +20,7 @@ $global-radius: 6px !default;
 // Mixins
 
 @mixin touch() {
-	@media screen and (max-width: $desktop - 100px){
+	@media screen and (max-width: $desktop - 1px){
     	@content
 	}
 }
