@@ -12,6 +12,9 @@ sections:
         button: 
         url: /contact-us/
         key_highlights:
+            - title: About CitizenConnect
+              description: 
+              url: /contact-us/
             - title: Top Agencies
               description: Top 9 agencies
               url: /top-agencies/
@@ -20,8 +23,5 @@ sections:
               url: /top-eservices/
             - title: All Agencies
               description: All Agencies
-              url: /all-agencies/
-            - title: About CitizenConnect
-              description: 
-              url: /contact-us/
+              url: /all-agencies/            
 ---
