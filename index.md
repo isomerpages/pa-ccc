@@ -22,6 +22,6 @@ sections:
               description: All Agencies
               url: /all-agencies/
             - title: About CitizenConnect
-              description: All Agencies
+              description: 
               url: /contact-us/
 ---
