@@ -9,7 +9,7 @@ sections:
         title: 
         subtitle: 
         background: /images/cc1.jpg
-        button: About CitizenConnect
+        button: 
         url: /contact-us/
         key_highlights:
             - title: Top Agencies
@@ -20,5 +20,8 @@ sections:
               url: /top-eservices/
             - title: All Agencies
               description: All Agencies
-              url: /all-agencies/ 
+              url: /all-agencies/
+            - title: About CitizenConnect
+              description: All Agencies
+              url: /contact-us/
 ---
