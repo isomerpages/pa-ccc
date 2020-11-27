@@ -1,32 +1,18 @@
 ---
-layout: contact_us
-title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+breadcrumb: About CitizenConnect
+title: About CitizenConnect
 ---
+
+### About CitizenConnect
+Located at Our Tampines Hub and 25 community centres island-wide, the Citizen Connect Centres (CCCs) provide an easy and convenient means for citizens to transact with the Government online. The CCCs offer free access to Internet-enabled computing devices, with trained staff present to assist and teach users to perform online transactions.
+
+Examples of the transactions that can be done at CCCs include:
+
+- Viewing CPF statements
+- Registering and paying for activities organised by Community Centres or Clubs
+- Booking sport facilities via Singapore Sports Council
+- Applying or renewing HDB/URA season parking tickets
+
+As part of on-going enhancements to make it easier for citizens to self-help, all the CCCs have been upgraded to enhanced CCCs (also known as CCC+) to better cater to the needs of the elderly and people with special needs. These enhancements include touch screen interfaces and a more intuitive landing page.
+
