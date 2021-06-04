@@ -10,7 +10,7 @@ sections:
         subtitle: 
         background: /images/cc1.jpg
         button: 
-        url: /contact-us/
+        url:
         key_highlights:
             - title: About CitizenConnect
               description: 
