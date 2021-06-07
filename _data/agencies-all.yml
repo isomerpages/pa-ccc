@@ -34,11 +34,6 @@
   image-url: /images/small/CAAS.png
   website: https://www.caas.gov.sg
   svc-num: 0
-- name: Competition Commission of Singapore
-  code: CCS
-  image-url: /images/small/CCS.png
-  website: https://www.ccs.gov.sg
-  svc-num: 0
 - name: Council for Estate Agencies
   code: CEA
   image-url: /images/small/CEA.png
@@ -53,11 +48,6 @@
   code: CNB
   image-url: /images/small/CNB.png
   website: http://www.cnb.gov.sg
-  svc-num: 0
-- name: Council for Private Education
-  code: CPE
-  image-url: /images/small/CPE.png
-  website: https://www.cpe.gov.sg
   svc-num: 0
 - name: Central Provident Fund Board
   code: CPFB
@@ -159,11 +149,6 @@
   image-url: /images/small/IEGS.png
   website: https://www.ies.org.sg
   svc-num: 0
-- name: International Enterprise Singapore
-  code: IES
-  image-url: /images/small/IES.png
-  website: http://www.iesingapore.gov.sg
-  svc-num: 0
 - name: Infocomm Media Development Authority
   code: IMDA
   image-url: /images/small/IMDA.png
@@ -194,11 +179,6 @@
   image-url: /images/small/JTC.png
   website: http://www.jtc.gov.sg
   svc-num: 0
-- name: Legal Aid Bureau
-  code: LAB
-  image-url: /images/small/LAB.png
-  website: www.mlaw.gov.sg/eservices/labesvc 
-  svc-num: 0
 - name: Land Transport Authority
   code: LTA
   image-url: /images/small/LTA.png
@@ -223,11 +203,6 @@
   code: MCI
   image-url: /images/small/MCI.png
   website: https://www.mci.gov.sg
-  svc-num: 0
-- name: Ministry of the Environment and Water Resources
-  code: MEWR
-  image-url: /images/small/MEWR.png
-  website: http://www.mewr.gov.sg
   svc-num: 0
 - name: Ministry of Foreign Affairs
   code: MFA
@@ -354,11 +329,6 @@
   image-url: /images/small/NHB.png
   website: http://www.nhb.gov.sg
   svc-num: 0
-- name: National Integration Council
-  code: NIC
-  image-url: /images/small/NIC.png
-  website: https://www.nationalintegrationcouncil.org.sg
-  svc-num: 0
 - name: National Library Board
   code: NLB
   image-url: /images/small/NLB.png
@@ -419,11 +389,6 @@
   image-url: /images/small/PMO.png
   website: http://www.pmo.gov.sg
   svc-num: 0
-- name: Singapore Prison Service
-  code: PRIS
-  image-url: /images/small/PRIS.png
-  website: https://www.epris.gov.sg
-  svc-num: 0
 - name: Public Service Division
   code: PSD
   image-url: /images/small/PSD.png
@@ -463,11 +428,6 @@
   code: SCDF
   image-url: /images/small/SCDF.png
   website: https://www.scdf.gov.sg
-  svc-num: 0
-- name: Singapore Corporation of Rehabilitative Enterprises
-  code: SCORE
-  image-url: /images/small/SCORE.png
-  website: http://www.score.gov.sg
   svc-num: 0
 - name: Sentosa Development Corporation
   code: SDC
@@ -539,11 +499,6 @@
   image-url: /images/small/SPF.png
   website: http://www.police.gov.sg
   svc-num: 0
-- name: SPRING Singapore
-  code: SPRING
-  image-url: /images/small/SPRING.png
-  website: http://www.spring.gov.sg
-  svc-num: 0
 - name: Singapore Prison Service
   code: SPS
   image-url: /images/small/SPS.png
@@ -583,11 +538,6 @@
   code: TP
   image-url: /images/small/TP.png
   website: http://www.tp.edu.sg
-  svc-num: 0
-- name: Traffic Police Department
-  code: TPD
-  image-url: /images/small/TPD.png
-  website: https://www.gov.sg/sgdi/ministries/mha/departments/spf/departments/tp
   svc-num: 0
 - name: Urban Redevelopment Authority
   code: URA
