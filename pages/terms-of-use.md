@@ -33,9 +33,9 @@ Thank you for visiting the Citizen Connect Centre website ("Website"). By access
     
 7. The Contents of this Website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, PA does not warrant and hereby disclaims any warranty:   
     
-  a) as to the accuracy, adequacy, completeness, correctness, reliability, timeliness, non-infringement, title, merchantability, quality and/or fitness for any particular purpose of the Website and/or the Contents; and  
+      a) as to the accuracy, adequacy, completeness, correctness, reliability, timeliness, non-infringement, title, merchantability, quality and/or fitness for any particular purpose of the Website and/or the Contents; and  
      
-  b) that this Website, the Contents or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server are and will be free of all viruses and/or other malicious, destructive, corrupting or harmful code, programme or macro.       
+      b) that this Website, the Contents or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server are and will be free of all viruses and/or other malicious, destructive, corrupting or harmful code, programme or macro.       
 
 8. PA shall not, in any event, be liable for any damages, loss or expense including without limitation, direct, indirect, special, or consequential damage, arising from or in connection with:  
     
