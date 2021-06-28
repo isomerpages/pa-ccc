@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<div class="list-container">
+### Privacy Statement  
 1.	This is a Government Agency digital service.
 
 2.	We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital service. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.
@@ -28,4 +28,4 @@ permalink: /privacy/
 “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 “Non-Government Entity” refers to a person other than a Government Agency.
 “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012). 
- </div>
+
