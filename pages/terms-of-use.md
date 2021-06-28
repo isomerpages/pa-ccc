@@ -39,11 +39,11 @@ Thank you for visiting the Citizen Connect Centre website ("Website"). By access
 
 8. PA shall not, in any event, be liable for any damages, loss or expense including without limitation, direct, indirect, special, or consequential damage, arising from or in connection with:  
     
-  +(a)  any access, use or the inability to access or use this Website, or reliance on the Contents;  
+      (a)  any access, use or the inability to access or use this Website, or reliance on the Contents;  
     
-  +(b)  any system, server or connection failure, error, omission, interruption, delay in transmission, breach of security, malicious code or computer virus; and/or  
+      (b)  any system, server or connection failure, error, omission, interruption, delay in transmission, breach of security, malicious code or computer virus; and/or  
     
-  +(c)  any use of or access to any other website linked to this Website.  
+      (c)  any use of or access to any other website linked to this Website.  
 
 
 **Right of Access**   
