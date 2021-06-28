@@ -9,7 +9,7 @@ Thank you for visiting the Citizen Connect Centre website ("Website"). By access
 **General**     
 1. PA reserves the right to make changes to these Terms of Use from time to time at its sole discretion. If any of these terms shall be deemed invalid, void, or for any reason unenforceable, that term shall be deemed severable and shall not affect the validity and enforceability of any remaining term. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.  
 
-**Proprietary Rights**    
+`**Proprietary Rights**    
     
 2. This Website is maintained by the People’s Association (PA).
 
