@@ -21,8 +21,8 @@ permalink: /privacy/
 6.	This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.
 
 7.	Please contact PA_QSM@pa.gov.sg if you:
-    i)	have any enquires or feedback on our data protection, policies and procedures; or
-    ii)	need more information on or access to data which you have provided directly to us in the past.
+  i)	have any enquires or feedback on our data protection, policies and procedures; or
+  ii)	need more information on or access to data which you have provided directly to us in the past.
 
 8.	Definitions:
 “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
