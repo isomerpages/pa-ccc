@@ -30,7 +30,7 @@ $global-radius: 6px !default;
     	@content
 	}
 }
-
+	  
 .bp-container {
 	max-width: 100%;
 	width: 100%;
@@ -450,8 +450,10 @@ $global-radius: 6px !default;
   margin: 0;
   padding: 0.5rem;
   min-height: 100px;
-  height: 100px;
-  width: 200px;
+  height: 100px; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 .grid-item a h5 {
