@@ -27,5 +27,5 @@ permalink: /privacy/
 8.	Definitions:
 “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 “Non-Government Entity” refers to a person other than a Government Agency.
-“Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012). 
+“Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).  
 
