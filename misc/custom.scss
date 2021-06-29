@@ -450,8 +450,10 @@ $global-radius: 6px !default;
   margin: 0;
   padding: 0.5rem;
   min-height: 100px;
-  height: 100px;
-  width: 200px;
+  height: 100px; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .grid-item a h5 {
