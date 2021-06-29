@@ -11,7 +11,7 @@ Thank you for visiting the Citizen Connect Centre website ("Website"). By access
 
      
 **Proprietary Rights**      
-````{:start='2'}``
+{:start="2"}    
 2. This Website is maintained by the People’s Association (PA).
 
 3. All the materials located in this Website including but not limited to all information, images, graphics  and software programs available on or through this Website (collectively, the "Contents"), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PA.  
