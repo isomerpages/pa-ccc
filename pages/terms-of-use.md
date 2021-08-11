@@ -88,3 +88,4 @@ Thank you for visiting the Citizen Connect Centre website ("Website"). By access
     **Governing Law**    
     
 22. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
