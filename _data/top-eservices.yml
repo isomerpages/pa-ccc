@@ -1,4 +1,9 @@
 # Top 9 eService
+  agency: Office of the Public Guardian (OPG)
+  image-url: /images/small/OPG.png
+  title: Application of Lasting Power of Attorney
+  description: Application of Lasting Power of Attorney
+  url: https://opg-eservice.msf.gov.sg/OPGO/
 - agency: CPFB
   image-url: /images/small/CPFB.png
   title: Application to Use CPF savings to Repay Housing Loan for Private Property
