@@ -404,16 +404,6 @@
   title: Deregistered Private Education Institutions
   description: List of all deregistered private schools in Singapore from May 2011
   url: http://www.cpe.gov.sg/for-students/deregistered-peis
-- agency: CPFB
-  image-url: /images/small/CPFB.png
-  title: e-Cashier - Top up under Retirement Sum Topping-Up Scheme (RSTU)
-  description: CPF Members can use this service to top up under the Retirement Sum Topping-Up Scheme (RSTU), with the use of eNETS Debit payment.
-  url: https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage
-- agency: CPFB
-  image-url: /images/small/CPFB.png
-  title: e-Cashier - Top up Premium for MediShield or Home Protection Scheme (HPS) Cover
-  description: CPF Members can use this service to top up their premium for MediShield or Home Protection Scheme (HPS) Cover, with the use of eNETS Debit payment.
-  url: https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage
 - agency: CPIB
   image-url: /images/small/CPIB.png
   title: e-Complaint for Corrupt Conduct
