@@ -1,5 +1,5 @@
 ---
-permalink: /agency/CPFB/
+permalink: /agency/cpfb/
 breadcrumb: CPFB
 title: CPFB
 ---

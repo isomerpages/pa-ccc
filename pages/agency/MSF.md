@@ -1,5 +1,5 @@
 ---
-permalink: /agency/MSF/
+permalink: /agency/msf/
 breadcrumb: MSF
 title: MSF
 ---

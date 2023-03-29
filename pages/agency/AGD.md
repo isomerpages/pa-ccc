@@ -1,5 +1,5 @@
 ---
-permalink: /agency/AGD/
+permalink: /agency/agd/
 breadcrumb: AGD
 title: AGD
 ---

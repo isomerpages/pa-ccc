@@ -1,5 +1,5 @@
 ---
-permalink: /agency/DOS/
+permalink: /agency/dos/
 breadcrumb: DOS
 title: DOS
 ---
