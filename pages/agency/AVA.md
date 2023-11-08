@@ -1,5 +1,5 @@
 ---
-permalink: /agency/AVA/
+permalink: /agency/ava/
 breadcrumb: AVA
 title: AVA
 ---

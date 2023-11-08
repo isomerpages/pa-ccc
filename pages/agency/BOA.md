@@ -1,5 +1,5 @@
 ---
-permalink: /agency/BOA/
+permalink: /agency/boa/
 breadcrumb: BOA
 title: BOA
 ---

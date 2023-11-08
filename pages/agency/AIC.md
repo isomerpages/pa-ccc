@@ -1,5 +1,5 @@
 ---
-permalink: /agency/AIC/
+permalink: /agency/aic/
 breadcrumb: AIC
 title: AIC
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /agency/ASTAR/
+permalink: /agency/astar/
 breadcrumb: ASTAR
 title: ASTAR
 ---

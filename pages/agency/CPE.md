@@ -1,5 +1,5 @@
 ---
-permalink: /agency/CPE/
+permalink: /agency/cpe/
 breadcrumb: CPE
 title: CPE
 ---
